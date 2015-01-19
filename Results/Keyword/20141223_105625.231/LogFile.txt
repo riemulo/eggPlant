@@ -1,0 +1,6 @@
+﻿2014-12-23 10:56:25.232 +0100	START		Running Keyword.table
+2014-12-23 10:56:25.799 +0100	doubleclick	Albelli_UK	at (584, 30)	7	on_starteditor	StartEditor.script
+2014-12-23 10:56:29.113 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-23 10:56:30.916 +0100	Exception	Photobooks_Uk	No Image Found On Screen: "Photobooks_Uk"	10	on_starteditor	StartEditor.script
+2014-12-23 10:56:30.919 +0100	EndTestCase		(Duration:"5.685", Errors:"1", Exceptions:"1", StartTime:"2014-12-23 10:56:25 +0100", Successes:"0", TestCase:"Keyword.table", Warnings:"0")
+2014-12-23 10:56:31.217 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Photobooks_Uk" -- Execution Time 0:00:05 Keyword.table

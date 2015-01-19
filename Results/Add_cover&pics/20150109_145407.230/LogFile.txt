@@ -1,0 +1,13 @@
+﻿2015-01-09 14:54:07.231 +0100	START		Running Add cover&pics.script	17	on_sendemail	sendEmail.script
+2015-01-09 14:54:08.776 +0100	click	Extras	at (557, 77)	10	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:09.846 +0100	click	Photocover_Mac	at (672, 215)	11	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:11.410 +0100	click	Ok_extra_Mac/Ok_extra_2	at (945, 571)	12	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:14.340 +0100	click	Cover	at (218, 942)	13	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:15.575 +0100	draganddrop		begin drag from (126, 414)	14	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:17.919 +0100	draganddrop	Placeholder_mac	drag #2 to (1352, 343)	14	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:18.220 +0100	draganddrop	Placeholder_mac	dropped at (1352, 343)	14	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:20.077 +0100	draganddrop		begin drag from (126, 414)	15	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:23.733 +0100	draganddrop	Placeholder_mac	drag #2 to (1352, 343)	15	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:24.035 +0100	draganddrop	Placeholder_mac	dropped at (1352, 343)	15	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:54:24.040 +0100	EndTestCase		(Duration:"16.806", Errors:"0", Exceptions:"0", StartTime:"2015-01-09 14:54:07 +0100", Successes:"1", TestCase:"Add cover&pics.script", Warnings:"0")	17	on_sendemail	sendEmail.script
+2015-01-09 14:54:24.107 +0100	SUCCESS		Execution Time 0:00:17 Add cover&pics.script	17	on_sendemail	sendEmail.script

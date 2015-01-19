@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-09 16:58:03.283 +0100,"Success",0:00:02,0,0,0,"20141209_165803.283/LogFile.txt","","",1
+2014-12-09 16:59:31.149 +0100,"Success",0:00:02,0,0,0,"20141209_165931.149/LogFile.txt","","",1
+2014-12-09 17:04:06.995 +0100,"Success",0:00:00,0,0,0,"20141209_170406.995/LogFile.txt","","",1
+2014-12-10 16:18:21.165 +0100,"Failure",0:00:00,1,0,1,"20141210_161821.165/LogFile.txt","","Connection Failed -- Unable to connect to Server:10.41.10.53 on port:5900\nARD/Screen Sharing is not configured.\nPlease use System Preferences->Sharing to configure it so that VNC viewers may control the screen",0
+2014-12-11 12:54:45.310 +0100,"Failure",0:00:12,1,0,1,"20141211_125445.310/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Nothanks""",0

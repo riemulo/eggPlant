@@ -1,0 +1,12 @@
+﻿2014-12-22 17:26:26.587 +0100	START		Running Ctrol keydown.script
+2014-12-22 17:26:26.889 +0100	click	image0012	at (50, 365)	8	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:27.590 +0100	keydown		[controlKey]	9	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:28.291 +0100	keyup		[controlKey]	10	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:29.186 +0100	click		at (41, 500)	11	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:29.887 +0100	keydown		[controlKey]	12	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:30.588 +0100	keyup		[controlKey]	13	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:31.429 +0100	click		at (41, 580)	14	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:32.130 +0100	keydown		[controlKey]	15	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:32.831 +0100	keyup		[controlKey]	16	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:26:32.862 +0100	EndTestCase		(Duration:"6.272", Errors:"0", Exceptions:"0", StartTime:"2014-12-22 17:26:26 +0100", Successes:"1", TestCase:"Ctrol keydown.script", Warnings:"0")
+2014-12-22 17:26:32.953 +0100	SUCCESS		Execution Time 0:00:06 Ctrol keydown.script

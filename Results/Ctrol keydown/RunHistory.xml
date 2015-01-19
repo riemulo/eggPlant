@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Ctrol keydown">
+ <run>
+  <RunDate>2014-12-22 17:24:34.284 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>2.419000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141222_172434.284/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2014-12-22 17:25:35.541 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>6.087000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141222_172535.541/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2014-12-22 17:26:26.586 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>6.275000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141222_172626.586/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2014-12-23 09:59:55.456 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>9.330000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141223_095955.456/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

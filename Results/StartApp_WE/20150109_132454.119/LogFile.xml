@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="StartApp_WE.script" package="eggPlant V1.5.suite" timestamp="2015-01-09 13:24:54.119 +0100"
+ tests="1" successes="(null)" errors="(null)" time="nan">
+  <properties>
+   <property name="RunDate" value="2015-01-09 13:24:54.119 +0100"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="StartApp_WE.script" assertions="1" successes="0" errors="1" time="0.014">
+  </testcase>
+ </testsuite>
+</testsuites>

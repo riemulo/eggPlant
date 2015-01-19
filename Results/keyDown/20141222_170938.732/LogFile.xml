@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="keyDown.script" package="eggPlant V1.5.suite" timestamp="2014-12-22 17:09:38.732 +0100"
+ tests="1" successes="0" errors="1" time="0.354000">
+  <properties>
+   <property name="RunDate" value="2014-12-22 17:09:38.732 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="keyDown.script" assertions="1" successes="0" errors="1" time="0.352">
+  </testcase>
+ </testsuite>
+</testsuites>

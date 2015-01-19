@@ -1,0 +1,5 @@
+﻿2014-12-09 17:04:06.996 +0100	START		Running Table_1.table
+2014-12-09 17:04:07.008 +0100	connect		10.41.10.32:(null)
+2014-12-09 17:04:07.640 +0100	doubleclick	image0001	at (429, 45)
+2014-12-09 17:04:07.642 +0100	EndTestCase		(Duration:"0.644", Errors:"0", Exceptions:"0", StartTime:"2014-12-09 17:04:06 +0100", Successes:"1", TestCase:"Table_1.table", Warnings:"0")
+2014-12-09 17:04:07.687 +0100	SUCCESS		Execution Time 0:00:01 Table_1.table

@@ -1,0 +1,15 @@
+﻿2014-12-17 16:55:29.662 +0100	START		Running Agenda.script
+2014-12-17 16:55:30.295 +0100	click	Albelli	at (435, 24)	8	on_agenda	Agenda.script
+2014-12-17 16:55:31.491 +0100	doubleclick	Albelli/Albelli_selected	at (432, 25)	9	on_agenda	Agenda.script
+2014-12-17 16:55:35.150 +0100	click	Newproduct	at (33, 72)	10	on_agenda	Agenda.script
+2014-12-17 16:55:36.320 +0100	click	Agenda's	at (434, 235)	11	on_agenda	Agenda.script
+2014-12-17 16:55:37.464 +0100	click	SchoolAgenda	at (838, 289)	12	on_agenda	Agenda.script
+2014-12-17 16:55:39.119 +0100	click	Ok_school	at (607, 546)	13	on_agenda	Agenda.script
+2014-12-17 16:55:40.502 +0100	click	Save_disabled	at (126, 73)	14	on_agenda	Agenda.script
+2014-12-17 16:55:41.381 +0100	click	ProductExtra_disabled	at (243, 78)	15	on_agenda	Agenda.script
+2014-12-17 16:55:42.241 +0100	click	ChageSize_disabled	at (334, 75)	16	on_agenda	Agenda.script
+2014-12-17 16:55:43.182 +0100	click	DesignTab	at (151, 35)	17	on_agenda	Agenda.script
+2014-12-17 16:55:44.006 +0100	click	InsertTab	at (202, 35)	18	on_agenda	Agenda.script
+2014-12-17 16:55:52.638 +0100	Exception	AddText_disabled	No Image Found On Screen: "AddText_disabled"	19	on_agenda	Agenda.script
+2014-12-17 16:55:52.683 +0100	EndTestCase		(Duration:"23.018", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 16:55:29 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-17 16:55:52.685 +0100	ABORTED		Execution Time 0:00:23 Agenda.script

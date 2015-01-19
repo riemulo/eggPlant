@@ -1,0 +1,6 @@
+﻿2014-12-10 16:57:59.375 +0100	START		Running Record_1.script
+2014-12-10 16:58:00.017 +0100	click	image0001	at (429, 45)	8	on_record_1	Record_1.script
+2014-12-10 16:58:00.824 +0100	doubleclick	image0002	at (429, 36)	9	on_record_1	Record_1.script
+2014-12-10 16:58:22.395 +0100	Exception	New_product	No Image Found On Screen: "New_product"	10	on_record_1	Record_1.script
+2014-12-10 16:58:22.408 +0100	EndTestCase		(Duration:"23.028", Errors:"1", Exceptions:"1", StartTime:"2014-12-10 16:57:59 +0100", Successes:"0", TestCase:"Record_1.script", Warnings:"0")
+2014-12-10 16:58:22.410 +0100	ABORTED		Execution Time 0:00:23 Record_1.script

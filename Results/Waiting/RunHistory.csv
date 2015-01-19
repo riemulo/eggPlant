@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-10 17:12:06.957 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20141210_171206.957/LogFile.txt","","",0
+2014-12-10 17:13:07.054 +0100,"Failure",0:00:01,1,0,0,"20141210_171307.054/LogFile.txt","","Invalid Parameters -- Invalid Parameter, please use wait <time in seconds>",0
+2014-12-10 17:15:33.467 +0100,"Failure",0:00:32,1,0,1,"20141210_171533.467/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Nothanks""",0

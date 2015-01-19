@@ -1,0 +1,69 @@
+﻿2015-01-06 13:14:19.291 +0100	START		Running Keyword.table
+2015-01-06 13:14:19.293 +0100	BeginTestCase		startEditor	7	on_starteditor	StartEditor.script
+2015-01-06 13:14:19.711 +0100	doubleclick	Albelli_UK	at (584, 30)	8	on_starteditor	StartEditor.script
+2015-01-06 13:14:23.034 +0100	click	New_product	at (31, 67)	10	on_starteditor	StartEditor.script
+2015-01-06 13:14:23.987 +0100	click	Photobooks_Uk	at (126, 240)	11	on_starteditor	StartEditor.script
+2015-01-06 13:14:24.812 +0100	click	SquarePhotoBooks	at (161, 269)	12	on_starteditor	StartEditor.script
+2015-01-06 13:14:25.629 +0100	click	Square_XL_UK	at (126, 240)	13	on_starteditor	StartEditor.script
+2015-01-06 13:14:28.711 +0100	click	PhotoCover_UK	at (229, 323)	14	on_starteditor	StartEditor.script
+2015-01-06 13:14:29.889 +0100	click	No_Layflat	at (650, 480)	15	on_starteditor	StartEditor.script
+2015-01-06 13:14:30.864 +0100	click	OK_books	at (806, 623)	16	on_starteditor	StartEditor.script
+2015-01-06 13:14:32.185 +0100	click	Manualfill	at (631, 566)	17	on_starteditor	StartEditor.script
+2015-01-06 13:14:33.491 +0100	draganddrop	Photo_1	begin drag from (66, 352)	18	on_starteditor	StartEditor.script
+2015-01-06 13:14:34.820 +0100	draganddrop		drag #2 to (757, 348)	18	on_starteditor	StartEditor.script
+2015-01-06 13:14:35.120 +0100	draganddrop		dropped at (757, 348)	18	on_starteditor	StartEditor.script
+2015-01-06 13:14:36.242 +0100	moveto		at (291, 342)	19	on_starteditor	StartEditor.script
+2015-01-06 13:14:36.941 +0100	scrollwheeldown		moved 1	20	on_starteditor	StartEditor.script
+2015-01-06 13:14:37.640 +0100	scrollwheelup		moved 1	21	on_starteditor	StartEditor.script
+2015-01-06 13:14:38.417 +0100	click		at (291, 342)	22	on_starteditor	StartEditor.script
+2015-01-06 13:14:39.299 +0100	draganddrop	Photo_2	begin drag from (285, 480)	23	on_starteditor	StartEditor.script
+2015-01-06 13:14:40.261 +0100	draganddrop	Placeholder	drag #2 to (476, 285)	23	on_starteditor	StartEditor.script
+2015-01-06 13:14:40.561 +0100	draganddrop	Placeholder	dropped at (476, 285)	23	on_starteditor	StartEditor.script
+2015-01-06 13:14:41.260 +0100	scrollwheelup		moved 1	24	on_starteditor	StartEditor.script
+2015-01-06 13:14:41.959 +0100	scrollwheeldown		moved 1	25	on_starteditor	StartEditor.script
+2015-01-06 13:14:42.838 +0100	moveto		at (291, 342)	26	on_starteditor	StartEditor.script
+2015-01-06 13:14:43.538 +0100	scrollwheeldown		moved 5	27	on_starteditor	StartEditor.script
+2015-01-06 13:14:43.540 +0100	EndTestCase		(Duration:"24.245", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 13:14:19 +0100", Successes:"0", TestCase:"startEditor", Warnings:"0")	28	on_starteditor	StartEditor.script
+2015-01-06 13:14:43.541 +0100	BeginTestCase		scrolling	30	on_starteditor	StartEditor.script
+2015-01-06 13:14:44.667 +0100	click	FileTab	at (36, 35)	31	on_starteditor	StartEditor.script
+2015-01-06 13:14:45.629 +0100	click	Settings	at (28, 243)	32	on_starteditor	StartEditor.script
+2015-01-06 13:14:46.611 +0100	moveto	SettingWIndow	at (325, 181)	33	on_starteditor	StartEditor.script
+2015-01-06 13:14:47.310 +0100	scrollwheeldown		moved 13	34	on_starteditor	StartEditor.script
+2015-01-06 13:14:48.009 +0100	scrollwheelup		moved 7	35	on_starteditor	StartEditor.script
+2015-01-06 13:14:48.786 +0100	moveto	SettingWindow2	at (399, 181)	36	on_starteditor	StartEditor.script
+2015-01-06 13:14:49.907 +0100	click	SaveAndReturn	at (28, 71)	40	on_starteditor	StartEditor.script
+2015-01-06 13:14:49.909 +0100	EndTestCase		(Duration:"6.367", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 13:14:43 +0100", Successes:"0", TestCase:"scrolling", Warnings:"0")	41	on_starteditor	StartEditor.script
+2015-01-06 13:14:49.910 +0100	BeginTestCase		Close_app	43	on_starteditor	StartEditor.script
+2015-01-06 13:14:51.549 +0100	click	bn_close	at (991, 9)	44	on_starteditor	StartEditor.script
+2015-01-06 13:14:53.011 +0100	click	bn_DontSave	at (575, 377)	45	on_starteditor	StartEditor.script
+2015-01-06 13:14:53.012 +0100	EndTestCase		(Duration:"3.101", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 13:14:49 +0100", Successes:"0", TestCase:"Close_app", Warnings:"0")	46	on_starteditor	StartEditor.script
+2015-01-06 13:14:53.014 +0100	BeginTestCase		Agenda	48	on_starteditor	StartEditor.script
+2015-01-06 13:14:53.712 +0100	imagefound	Albelli	found at (435, 24)	49	on_starteditor	StartEditor.script
+2015-01-06 13:14:54.151 +0100	doubleclick		at (435, 24)	49	on_starteditor	StartEditor.script
+2015-01-06 13:14:57.150 +0100	click	Newproduct	at (33, 72)	50	on_starteditor	StartEditor.script
+2015-01-06 13:14:58.317 +0100	click	Agenda's	at (434, 235)	51	on_starteditor	StartEditor.script
+2015-01-06 13:14:59.457 +0100	click	SchoolAgenda	at (838, 289)	52	on_starteditor	StartEditor.script
+2015-01-06 13:15:01.141 +0100	click	Ok_school	at (607, 546)	53	on_starteditor	StartEditor.script
+2015-01-06 13:15:41.726 +0100	draganddrop	Photo_1	begin drag from (66, 313)	55	on_starteditor	StartEditor.script
+2015-01-06 13:15:43.057 +0100	draganddrop		drag #2 to (757, 348)	55	on_starteditor	StartEditor.script
+2015-01-06 13:15:43.358 +0100	draganddrop		dropped at (757, 348)	55	on_starteditor	StartEditor.script
+2015-01-06 13:15:44.695 +0100	click	InsertTab	at (219, 37)	57	on_starteditor	StartEditor.script
+2015-01-06 13:15:45.644 +0100	click	AddText_disabled	at (31, 73)	58	on_starteditor	StartEditor.script
+2015-01-06 13:15:46.459 +0100	click	AddNewImage_disabled	at (70, 64)	59	on_starteditor	StartEditor.script
+2015-01-06 13:15:47.301 +0100	click	AddImage_disabled	at (140, 73)	60	on_starteditor	StartEditor.script
+2015-01-06 13:15:48.143 +0100	click	SpreadImages_disabled	at (215, 73)	61	on_starteditor	StartEditor.script
+2015-01-06 13:15:49.327 +0100	click	Clipart_disabled	at (667, 75)	63	on_starteditor	StartEditor.script
+2015-01-06 13:15:50.620 +0100	click	ProductTab	at (90, 36)	64	on_starteditor	StartEditor.script
+2015-01-06 13:15:51.536 +0100	click	ProductExtra_disabled	at (241, 72)	66	on_starteditor	StartEditor.script
+2015-01-06 13:15:52.396 +0100	click	ChageSize_disabled	at (334, 75)	67	on_starteditor	StartEditor.script
+2015-01-06 13:15:52.398 +0100	EndTestCase		(Duration:"59.383", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 13:14:53 +0100", Successes:"0", TestCase:"Agenda", Warnings:"0")	68	on_starteditor	StartEditor.script
+2015-01-06 13:15:53.446 +0100	click	FileTab	at (36, 35)	8	on_scrolling	Scrolling.script
+2015-01-06 13:15:54.407 +0100	click	Settings	at (28, 243)	9	on_scrolling	Scrolling.script
+2015-01-06 13:15:56.221 +0100	Exception	SettingWIndow	No Image Found On Screen: "SettingWIndow"	10	on_scrolling	Scrolling.script
+2015-01-06 13:15:57.892 +0100	click	bn_close	at (991, 9)	8	on_close_editor	Close_editor.script
+2015-01-06 13:16:08.607 +0100	Exception	bn_DontSave	No Image Found On Screen: "bn_DontSave"	9	on_close_editor	Close_editor.script
+2015-01-06 13:16:10.492 +0100	imagefound	Albelli	Unable to Find Image Albelli	8	on_agenda	Agenda.script
+2015-01-06 13:16:11.440 +0100	click	Newproduct	at (32, 72)	9	on_agenda	Agenda.script
+2015-01-06 13:16:13.235 +0100	Exception	Agenda's	No Image Found On Screen: "Agenda's"	10	on_agenda	Agenda.script
+2015-01-06 13:16:13.238 +0100	EndTestCase		(Duration:"113.945", Errors:"1", Exceptions:"3", StartTime:"2015-01-06 13:14:19 +0100", Successes:"0", TestCase:"Keyword.table", Warnings:"0")
+2015-01-06 13:16:13.465 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Agenda's" -- Execution Time 0:01:54 Keyword.table

@@ -1,0 +1,5 @@
+﻿2014-12-18 09:36:54.417 +0100	START		Running StartEditor.script
+2014-12-18 09:36:55.025 +0100	doubleclick	Albelli_UK	at (584, 30)	7	on_starteditor	StartEditor.script
+2014-12-18 09:37:07.232 +0100	Exception	New_product	No Image Found On Screen: "New_product"	9	on_starteditor	StartEditor.script
+2014-12-18 09:37:07.259 +0100	EndTestCase		(Duration:"12.839", Errors:"1", Exceptions:"1", StartTime:"2014-12-18 09:36:54 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-18 09:37:07.483 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "New_product" -- Execution Time 0:00:13 StartEditor.script

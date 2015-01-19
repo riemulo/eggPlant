@@ -1,0 +1,8 @@
+﻿2014-12-19 10:02:10.402 +0100	START		Running StartEditor.script
+2014-12-19 10:02:10.944 +0100	doubleclick	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-19 10:02:13.762 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-19 10:02:14.719 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-19 10:02:15.549 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-19 10:02:16.371 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-19 10:02:16.421 +0100	EndTestCase		(Duration:"6.015", Errors:"0", Exceptions:"0", StartTime:"2014-12-19 10:02:10 +0100", Successes:"1", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-19 10:02:16.503 +0100	SUCCESS		Execution Time 0:00:06 StartEditor.script

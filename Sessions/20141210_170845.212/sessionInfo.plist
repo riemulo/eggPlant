@@ -1,0 +1,40 @@
+{
+    commandList = "[{captureRect:[397, 714, 467, 744], command:@\"Click\", eventNum:2, hotSpot:[4.3214675899999997e+002, 3.8400024000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0002.png\"}, {captureRect:[397, 714, 467, 744], command:@\"DoubleClick\", eventNum:4, hotSpot:[4.3214675899999997e+002, 3.8400024000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0030\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0004.png\"}, {captureRect:[0, 677, 64, 707], command:@\"Click\", eventNum:8, hotSpot:[2.9227315999999998e+001, 7.5789490000000001e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0031\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0008.png\"}, {captureRect:[113, 486, 183, 516], command:@\"Click\", eventNum:10, hotSpot:[1.4822425799999999e+002, 2.6677896099999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0032\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0010.png\"}, {captureRect:[113, 486, 183, 516], command:@\"Click\", eventNum:12, hotSpot:[1.4822425799999999e+002, 2.6677896099999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0033\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0012.png\"}, {captureRect:[113, 486, 183, 516], command:@\"Click\", eventNum:14, hotSpot:[1.4822425799999999e+002, 2.6677896099999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0034\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0014.png\"}, {captureRect:[504, 415, 574, 445], command:@\"Click\", eventNum:16, hotSpot:[5.3966156000000001e+002, 3.3751580799999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Nothanks\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0016.png\"}, {captureRect:[504, 185, 574, 215], command:@\"Click\", eventNum:18, hotSpot:[5.3966156000000001e+002, 5.6791577099999995e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Nothanks_0001\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0018.png\"}, {captureRect:[760, 151, 830, 181], command:@\"Click\", eventNum:20, hotSpot:[7.9540057400000001e+002, 6.0126318400000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0035\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0020.png\"}, {captureRect:[580, 179, 650, 209], command:@\"Click\", eventNum:22, hotSpot:[6.1586132799999996e+002, 5.7397894299999996e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Manualfill_0001\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141210_170845.212/Screen0022.png\"}]";
+    generatedCommands = (
+	"Click \"image0003\"",
+	"DoubleClick \"image0030\"",
+	"Click \"image0031\"",
+	"Click \"image0032\"",
+	"Click \"image0033\"",
+	"Click \"image0034\"",
+	"Click \"Nothanks\"",
+	"Click \"Nothanks_0001\"",
+	"Click \"image0035\"",
+	"Click \"Manualfill_0001\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0003.png",
+	    "image0030.png",
+	    "image0031.png",
+	    "image0032.png",
+	    "image0033.png",
+	    "image0034.png",
+	    "Nothanks.png",
+	    "Nothanks_0001.png",
+	    "image0035.png",
+	    "Manualfill_0001.png",
+	    "image0003.png",
+	    "image0030.png",
+	    "image0031.png",
+	    "image0032.png",
+	    "image0033.png",
+	    "image0034.png",
+	    "Nothanks.png",
+	    "Nothanks_0001.png",
+	    "image0035.png",
+	    "Manualfill_0001.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

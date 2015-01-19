@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="StartApp_Mac">
+ <run>
+  <RunDate>2015-01-16 10:10:00.768 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>18.494000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150116_101000.768/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

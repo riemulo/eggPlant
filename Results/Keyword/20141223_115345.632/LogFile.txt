@@ -1,0 +1,45 @@
+﻿2014-12-23 11:53:45.633 +0100	START		Running Keyword.table
+2014-12-23 11:53:46.186 +0100	doubleclick	Albelli_UK	at (584, 30)	7	on_starteditor	StartEditor.script
+2014-12-23 11:53:49.492 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-23 11:53:50.444 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-23 11:53:51.264 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-23 11:53:52.082 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-23 11:53:55.315 +0100	click	PhotoCover_UK	at (229, 323)	13	on_starteditor	StartEditor.script
+2014-12-23 11:53:56.494 +0100	click	No_Layflat	at (650, 480)	14	on_starteditor	StartEditor.script
+2014-12-23 11:53:57.469 +0100	click	OK_books	at (806, 623)	15	on_starteditor	StartEditor.script
+2014-12-23 11:53:58.786 +0100	click	Manualfill	at (631, 566)	16	on_starteditor	StartEditor.script
+2014-12-23 11:54:00.090 +0100	draganddrop	Photo_1	begin drag from (66, 352)	17	on_starteditor	StartEditor.script
+2014-12-23 11:54:01.419 +0100	draganddrop		drag #2 to (757, 348)	17	on_starteditor	StartEditor.script
+2014-12-23 11:54:01.719 +0100	draganddrop		dropped at (757, 348)	17	on_starteditor	StartEditor.script
+2014-12-23 11:54:02.841 +0100	moveto		at (291, 342)	18	on_starteditor	StartEditor.script
+2014-12-23 11:54:03.540 +0100	scrollwheeldown		moved 1	19	on_starteditor	StartEditor.script
+2014-12-23 11:54:04.239 +0100	scrollwheelup		moved 1	20	on_starteditor	StartEditor.script
+2014-12-23 11:54:05.016 +0100	click		at (291, 342)	21	on_starteditor	StartEditor.script
+2014-12-23 11:54:05.897 +0100	draganddrop	Photo_2	begin drag from (285, 480)	22	on_starteditor	StartEditor.script
+2014-12-23 11:54:06.859 +0100	draganddrop	Placeholder	drag #2 to (476, 285)	22	on_starteditor	StartEditor.script
+2014-12-23 11:54:07.159 +0100	draganddrop	Placeholder	dropped at (476, 285)	22	on_starteditor	StartEditor.script
+2014-12-23 11:54:07.858 +0100	scrollwheelup		moved 1	23	on_starteditor	StartEditor.script
+2014-12-23 11:54:08.557 +0100	scrollwheeldown		moved 1	24	on_starteditor	StartEditor.script
+2014-12-23 11:54:09.436 +0100	moveto		at (291, 342)	25	on_starteditor	StartEditor.script
+2014-12-23 11:54:10.135 +0100	scrollwheeldown		moved 5	26	on_starteditor	StartEditor.script
+2014-12-23 11:54:11.264 +0100	click	FileTab	at (36, 35)	8	on_scrolling	Scrolling.script
+2014-12-23 11:54:12.226 +0100	click	Settings	at (28, 243)	9	on_scrolling	Scrolling.script
+2014-12-23 11:54:13.208 +0100	moveto	SettingWIndow	at (325, 181)	10	on_scrolling	Scrolling.script
+2014-12-23 11:54:13.907 +0100	scrollwheeldown		moved 13	11	on_scrolling	Scrolling.script
+2014-12-23 11:54:14.606 +0100	scrollwheelup		moved 7	12	on_scrolling	Scrolling.script
+2014-12-23 11:54:15.381 +0100	moveto	SettingWindow2	at (399, 181)	13	on_scrolling	Scrolling.script
+2014-12-23 11:54:16.501 +0100	click	SaveAndReturn	at (28, 71)	17	on_scrolling	Scrolling.script
+2014-12-23 11:54:16.502 +0100	UNEXPECTED RESULT		Expected: Pass  Actual: 
+2014-12-23 11:54:18.143 +0100	click	bn_close	at (991, 9)	8	on_close_editor	Close_editor.script
+2014-12-23 11:54:19.605 +0100	click	bn_DontSave	at (575, 377)	9	on_close_editor	Close_editor.script
+2014-12-23 11:54:20.717 +0100	click	Albelli	at (435, 24)	8	on_agenda	Agenda.script
+2014-12-23 11:54:21.524 +0100	doubleclick	Albelli/Albelli_selected	at (432, 25)	9	on_agenda	Agenda.script
+2014-12-23 11:54:24.521 +0100	click	Newproduct	at (33, 72)	10	on_agenda	Agenda.script
+2014-12-23 11:54:25.690 +0100	click	Agenda's	at (434, 235)	11	on_agenda	Agenda.script
+2014-12-23 11:54:26.831 +0100	click	SchoolAgenda	at (838, 289)	12	on_agenda	Agenda.script
+2014-12-23 11:54:28.656 +0100	click	Ok_school	at (607, 546)	13	on_agenda	Agenda.script
+2014-12-23 11:54:30.047 +0100	click	DesignTab	at (151, 35)	14	on_agenda	Agenda.script
+2014-12-23 11:54:30.880 +0100	click	InsertTab	at (219, 37)	15	on_agenda	Agenda.script
+2014-12-23 11:54:32.696 +0100	Exception	AddText_disabled	No Image Found On Screen: "AddText_disabled"	16	on_agenda	Agenda.script
+2014-12-23 11:54:32.699 +0100	EndTestCase		(Duration:"47.065", Errors:"2", Exceptions:"1", StartTime:"2014-12-23 11:53:45 +0100", Successes:"0", TestCase:"Keyword.table", Warnings:"0")
+2014-12-23 11:54:32.797 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "AddText_disabled" -- Execution Time 0:00:47 Keyword.table

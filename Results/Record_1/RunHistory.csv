@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-09 16:19:48.172 +0100,"Running",0:00:00,,,,"20141209_161948.172/LogFile.txt","","",
+2014-12-09 16:20:05.272 +0100,"Failure",0:00:38,1,0,1,"20141209_162005.272/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0003""",0
+2014-12-09 16:20:51.278 +0100,"Failure",0:00:19,1,0,1,"20141209_162051.278/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0003""",0
+2014-12-10 16:57:09.514 +0100,"Failure",0:00:01,1,0,1,"20141210_165709.514/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: image0003",0
+2014-12-10 16:57:59.374 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20141210_165759.374/LogFile.txt","","",0
+2014-12-10 17:07:36.311 +0100,"Failure",0:00:09,1,0,1,"20141210_170736.311/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""New_product""",0

@@ -1,0 +1,5 @@
+﻿2014-12-23 15:30:46.765 +0100	START		Running Agenda.script
+2014-12-23 15:30:46.808 +0100	imagefound	Albelli	found at (45, 129)	8	on_agenda	Agenda.script
+2014-12-23 15:30:47.625 +0100	click		at (45, 129)	8	on_agenda	Agenda.script
+2014-12-23 15:30:55.239 +0100	EndTestCase		(Duration:"8.472", Errors:"1", Exceptions:"0", StartTime:"2014-12-23 15:30:46 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-23 15:30:55.241 +0100	ABORTED		Execution Time 0:00:09 Agenda.script

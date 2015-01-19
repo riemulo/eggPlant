@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="sendEmail">
+ <run>
+  <RunDate>2015-01-09 14:57:53.185 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>165.435000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145753.185/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-16 10:03:05.144 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.207000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150116_100305.144/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- runwithnewresults Error - Unable to locate script named: Add cover&pics</ErrorMessage>
+ </run>
+</runHistory>

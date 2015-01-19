@@ -1,0 +1,36 @@
+{
+    commandList = "[{captureRect:[374, 988, 419, 1014], command:@\"Click\", eventNum:2, hotSpot:[3.9106750499999998e+002, 8.1121155000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Extras\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0002.png\"}, {captureRect:[474, 827, 692, 918], command:@\"Click\", eventNum:4, hotSpot:[5.0650308200000001e+002, 2.1914801000000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Photocover_Mac\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0004.png\"}, {captureRect:[713, 491, 814, 516], command:@\"Click\", eventNum:6, hotSpot:[7.7977917500000001e+002, 5.7511212200000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/Ok_extra_Mac\", imageName:@\"Ok_extra_2\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0006.png\"}, {captureRect:[350, 163, 401, 182], command:@\"Click\", eventNum:8, hotSpot:[3.6868713400000001e+002, 9.1049328600000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Cover\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0008.png\"}, {captureRect:[483, 156, 553, 186], command:@\"Click\", eventNum:10, hotSpot:[5.1828222700000003e+002, 9.0807177700000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0010.png\", skipStep:@\"YES\"}, {captureRect:[355, 165, 392, 178], command:@\"Click\", eventNum:12, hotSpot:[3.8282208300000002e+002, 8.9959643600000004e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Cover_0001\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0012.png\", skipStep:@\"YES\"}, {captureRect:[355, 165, 392, 178], command:@\"Click\", eventNum:14, hotSpot:[3.7104296900000003e+002, 9.0322869900000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Cover_0002\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0014.png\", skipStep:@\"YES\"}, {captureRect:[120, 636, 190, 666], command:@\"Click\", eventNum:16, hotSpot:[1.5548466500000001e+002, 4.2860992399999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Image_1\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0016.png\"}, {captureRect:[101, 501, 171, 531], command:@\"Click\", eventNum:18, hotSpot:[1.3663804600000000e+002, 5.6300451699999996e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Image_2\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150109_124307.245/Screen0018.png\"}]";
+    generatedCommands = (
+	"Click \"Extras\"",
+	"Click \"Photocover_Mac\"",
+	"Click \"Ok_extra_Mac/Ok_extra_2\"",
+	"Click \"Cover\"",
+	"-skipped- Click \"image0001\"",
+	"-skipped- Click \"Cover_0001\"",
+	"-skipped- Click \"Cover_0002\"",
+	"Click \"Image_1\"",
+	"Click \"Image_2\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Extras.png",
+	    "Photocover_Mac.png",
+	    "Cover.png",
+	    "image0001.png",
+	    "Cover_0001.png",
+	    "Cover_0002.png",
+	    "Image_1.png",
+	    "Image_2.png",
+	    "Extras.png",
+	    "Photocover_Mac.png",
+	    "Cover.png",
+	    "Image_1.png",
+	    "Image_2.png"
+	);
+	"Ok_extra_Mac" = (
+	    "Ok_extra_2.png",
+	    "Ok_extra_2.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

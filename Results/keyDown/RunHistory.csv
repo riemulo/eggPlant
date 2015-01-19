@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-22 17:03:46.206 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20141222_170346.206/LogFile.txt","","",0
+2014-12-22 17:08:50.717 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20141222_170850.717/LogFile.txt","","",0
+2014-12-22 17:09:38.732 +0100,"Failure",0:00:00,1,0,0,"20141222_170938.732/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2014-12-22 17:20:50.781 +0100,"Failure",0:00:00,1,0,0,"20141222_172050.781/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0

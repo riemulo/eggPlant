@@ -1,0 +1,18 @@
+﻿2014-12-23 13:25:57.130 +0100	START		Running Keyword.table
+2014-12-23 13:25:57.638 +0100	doubleclick	Albelli_UK	at (584, 30)	7	on_starteditor	StartEditor.script
+2014-12-23 13:26:00.583 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-23 13:26:02.386 +0100	Exception	Photobooks_Uk	No Image Found On Screen: "Photobooks_Uk"	10	on_starteditor	StartEditor.script
+2014-12-23 13:26:03.191 +0100	click	FileTab	at (36, 35)	8	on_scrolling	Scrolling.script
+2014-12-23 13:26:04.153 +0100	click	Settings	at (28, 243)	9	on_scrolling	Scrolling.script
+2014-12-23 13:26:05.135 +0100	moveto	SettingWIndow	at (325, 181)	10	on_scrolling	Scrolling.script
+2014-12-23 13:26:05.834 +0100	scrollwheeldown		moved 13	11	on_scrolling	Scrolling.script
+2014-12-23 13:26:06.534 +0100	scrollwheelup		moved 7	12	on_scrolling	Scrolling.script
+2014-12-23 13:26:07.309 +0100	moveto	SettingWindow2	at (399, 181)	13	on_scrolling	Scrolling.script
+2014-12-23 13:26:08.430 +0100	click	SaveAndReturn	at (28, 71)	17	on_scrolling	Scrolling.script
+2014-12-23 13:26:08.431 +0100	UNEXPECTED RESULT		Expected: Pass  Actual: 
+2014-12-23 13:26:10.072 +0100	click	bn_close	at (991, 9)	8	on_close_editor	Close_editor.script
+2014-12-23 13:26:20.782 +0100	Exception	bn_DontSave	No Image Found On Screen: "bn_DontSave"	9	on_close_editor	Close_editor.script
+2014-12-23 13:26:21.483 +0100	imagefound	Albelli	found at (435, 24)	8	on_agenda	Agenda.script
+2014-12-23 13:26:22.056 +0100	click		at (435, 24)	8	on_agenda	Agenda.script
+2014-12-23 13:26:42.183 +0100	EndTestCase		(Duration:"45.052", Errors:"2", Exceptions:"2", StartTime:"2014-12-23 13:25:57 +0100", Successes:"0", TestCase:"Keyword.table", Warnings:"0")
+2014-12-23 13:26:42.183 +0100	ABORTED		Execution Time 0:00:45 Keyword.table

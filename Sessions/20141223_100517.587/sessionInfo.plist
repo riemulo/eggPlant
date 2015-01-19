@@ -1,0 +1,15 @@
+{
+    commandList = "[{captureRect:[47, 370, 117, 400], command:@\"Click\", eventNum:2, hotSpot:[82, 383], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0013\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141223_100517.587/Screen0002.png\"}, {command:@\"KeyDown\", eventNum:4, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141223_100517.587/Screen0002.png\", text:@\"ControlKey\"}, {command:@\"KeyUp\", eventNum:214, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141223_100517.587/Screen0161.png\", text:@\"ControlKey\"}]";
+    generatedCommands = (
+	"Click \"image0013\"",
+	"KeyDown ControlKey",
+	"KeyUp ControlKey"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0013.png",
+	    "image0013.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

@@ -1,0 +1,6 @@
+﻿2014-12-10 17:12:06.959 +0100	START		Running Waiting.script
+2014-12-10 17:12:07.683 +0100	click	image0003	at (432, 38)	8	on_waiting	Waiting.script
+2014-12-10 17:12:08.491 +0100	doubleclick	image0030	at (432, 38)	9	on_waiting	Waiting.script
+2014-12-10 17:12:19.393 +0100	Exception	image0031	No Image Found On Screen: "image0031"	10	on_waiting	Waiting.script
+2014-12-10 17:12:19.403 +0100	EndTestCase		(Duration:"12.441", Errors:"1", Exceptions:"1", StartTime:"2014-12-10 17:12:06 +0100", Successes:"0", TestCase:"Waiting.script", Warnings:"0")
+2014-12-10 17:12:19.405 +0100	ABORTED		Execution Time 0:00:13 Waiting.script

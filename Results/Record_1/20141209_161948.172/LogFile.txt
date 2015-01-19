@@ -1,0 +1,4 @@
+﻿2014-12-09 16:19:48.174 +0100	START		Running Record_1.script
+2014-12-09 16:19:58.049 +0100	Exception	image0001	No Image Found On Screen: "image0001"	8	on_record_1	Record_1.script
+2014-12-09 16:19:58.074 +0100	EndTestCase		(Duration:"9.896", Errors:"1", Exceptions:"1", StartTime:"2014-12-09 16:19:48 +0100", Successes:"0", TestCase:"Record_1.script", Warnings:"0")
+2014-12-09 16:19:58.075 +0100	ABORTED		Execution Time 0:00:10 Record_1.script

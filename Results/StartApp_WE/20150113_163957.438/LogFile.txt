@@ -1,0 +1,6 @@
+﻿2015-01-13 16:39:57.440 +0100	START		Running StartApp_WE.script
+2015-01-13 16:39:57.501 +0100	BeginTestCase		startEditor	1	on_startapp_we	StartApp_WE.script
+2015-01-13 16:40:22.306 +0100	Exception	Albelli_UK	No Image Found On Screen: "Albelli_UK"	2	on_startapp_we	StartApp_WE.script
+2015-01-13 16:40:22.345 +0100	EndTestCase		(Duration:"24.843", Errors:"1", Exceptions:"1", StartTime:"2015-01-13 16:39:57 +0100", Successes:"0", TestCase:"startEditor", Warnings:"0")
+2015-01-13 16:40:22.348 +0100	EndTestCase		(Duration:"24.906", Errors:"1", Exceptions:"1", StartTime:"2015-01-13 16:39:57 +0100", Successes:"0", TestCase:"StartApp_WE.script", Warnings:"0")
+2015-01-13 16:40:22.349 +0100	ABORTED		Execution Time 0:00:25 StartApp_WE.script

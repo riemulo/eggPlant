@@ -1,0 +1,4 @@
+﻿2014-12-22 16:57:39.669 +0100	START		Running t.script
+2014-12-22 16:57:44.002 +0100	Exception	image0009	No Image Found On Screen: "image0009"	8	on_t	t.script
+2014-12-22 16:57:44.030 +0100	EndTestCase		(Duration:"4.359", Errors:"1", Exceptions:"1", StartTime:"2014-12-22 16:57:39 +0100", Successes:"0", TestCase:"t.script", Warnings:"0")
+2014-12-22 16:57:44.031 +0100	ABORTED		Execution Time 0:00:05 t.script

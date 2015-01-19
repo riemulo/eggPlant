@@ -1,0 +1,14 @@
+﻿2015-01-06 16:10:41.897 +0100	START		Running StartApp_Mac.script
+2015-01-06 16:10:43.049 +0100	click	Application	at (1551, 1045)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:10:49.106 +0100	click	Alb_UK	at (906, 278)	9	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:10:53.933 +0100	click	BeginNewProduct	at (566, 840)	10	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:10:55.730 +0100	click	Uk_Mac	at (600, 258)	11	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:00.785 +0100	click	Square_UK	at (600, 258)	12	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:06.251 +0100	click	Sq_XL_Mac	at (600, 258)	13	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:08.162 +0100	click	NoCover_UK	at (861, 222)	14	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:09.401 +0100	click	NoLayflat_UK_Mac	at (822, 501)	15	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:10.802 +0100	click	Ok_extra_Mac	at (823, 571)	16	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:10.804 +0100	LogWarning		File logfile Doesn't exist for Email Attachment	18	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:13.775 +0100	sendmail		Email Sent To: seniselam21@gmail.com	18	on_startapp_mac	StartApp_Mac.script
+2015-01-06 16:11:13.812 +0100	EndTestCase		(Duration:"31.912", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 16:10:41 +0100", Successes:"1", TestCase:"StartApp_Mac.script", Warnings:"1")
+2015-01-06 16:11:13.888 +0100	SUCCESS		Execution Time 0:00:32 StartApp_Mac.script

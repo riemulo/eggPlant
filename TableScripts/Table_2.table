@@ -1,0 +1,11 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>DoubleClick</Action><Arguments>Albelli_UK/Albelli_UK</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>WaitFor</Action><Arguments>5</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>Newproduct</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>MoveTo</Action><Arguments>{{{ImageName}}}</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>DoubleClick</Action><Arguments>Albelli_UK/Albelli_UK</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>WaitFor</Action><Arguments>5</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>Newproduct</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

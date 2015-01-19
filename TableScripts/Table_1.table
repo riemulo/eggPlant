@@ -1,0 +1,11 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>DoubleClick</Action><Arguments>image0001</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Connect</Action><Arguments>10.41.10.32</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>New_product</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>{{{ImageName}}}</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>image0005</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>image0006</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Connect</Action><Arguments>{{{SUT Name or IP}}}</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

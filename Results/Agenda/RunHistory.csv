@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-17 16:53:03.019 +0100,"Running",0:00:00,,,,"20141217_165303.019/LogFile.txt","","",
+2014-12-17 16:53:18.828 +0100,"Running",0:00:00,,,,"20141217_165318.828/LogFile.txt","","",
+2014-12-17 16:54:09.903 +0100,"Running",0:00:00,,,,"20141217_165409.903/LogFile.txt","","",
+2014-12-17 16:55:29.661 +0100,"Running",0:00:00,,,,"20141217_165529.661/LogFile.txt","","",
+2014-12-17 16:56:46.152 +0100,"Failure",0:00:35,1,0,1,"20141217_165646.152/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""AddText_disabled""",0
+2014-12-19 09:58:21.296 +0100,"Failure",0:00:35,1,0,1,"20141219_095821.296/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""InsertTab""",0

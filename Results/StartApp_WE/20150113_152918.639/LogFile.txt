@@ -1,0 +1,11 @@
+﻿2015-01-13 15:29:18.641 +0100	START		Running StartApp_WE.script
+2015-01-13 15:29:18.685 +0100	BeginTestCase		startEditor	1	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:19.410 +0100	doubleclick	Albelli_UK	at (586, 32)	2	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:24.032 +0100	click	New_product	at (31, 67)	4	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:24.984 +0100	click	Photobooks_Uk	at (126, 240)	5	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:25.810 +0100	click	Square_UK	at (175, 256)	6	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:26.637 +0100	click	Square_XL_UK	at (126, 240)	7	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:44.171 +0100	Exception	PhotoCover_UK	No Image Found On Screen: "PhotoCover_UK"	8	on_startapp_we	StartApp_WE.script
+2015-01-13 15:29:44.206 +0100	EndTestCase		(Duration:"25.519", Errors:"1", Exceptions:"1", StartTime:"2015-01-13 15:29:18 +0100", Successes:"0", TestCase:"startEditor", Warnings:"0")
+2015-01-13 15:29:44.209 +0100	EndTestCase		(Duration:"25.565", Errors:"1", Exceptions:"1", StartTime:"2015-01-13 15:29:18 +0100", Successes:"0", TestCase:"StartApp_WE.script", Warnings:"0")
+2015-01-13 15:29:44.446 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "PhotoCover_UK" -- Execution Time 0:00:26 StartApp_WE.script

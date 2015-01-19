@@ -1,0 +1,71 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-17 17:16:47
+  From session:  StartEditor
+  Captured on:  2014-12-17 17:00:55
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+BeginTestCase "startEditor"
+DoubleClick (Image:"Albelli_UK", WaitFor:5)
+--Click (Image:"image0036", WaitFor:10)
+Click (Image:"New_product", WaitFor:20)
+Click "Photobooks_Uk"
+Click "Square_UK"
+Click (Image:"Square_XL_UK", WaitFor:20)
+Click "PhotoCover_UK"
+Click "No_Layflat"
+Click "OK_books"
+Click "Manualfill"
+DragandDrop "Photo_1", (757, 348) -- "Placeholder" --(757, 348)
+MoveTo (291,342) --"EmptyPhotoViewer" --(291,342)
+ScrollWheelDown 1.0
+ScrollWheelUp 1.0
+Click (291,342)
+DragandDrop "Photo_2", "Placeholder"
+ScrollWheelUp 1.0
+ScrollWheelDown 1.0
+MoveTo (291,342)
+ScrollWheelDown 5.0
+EndTestCase "startEditor"
+
+BeginTestCase "scrolling"
+Click "FileTab"
+Click "Settings"
+MoveTo "SettingWIndow"
+ScrollWheelDown 13.0
+ScrollWheelUp 7.0
+MoveTo "SettingWindow2"
+--ScrollWheelUp 7.0
+--Click (Image:"DownArrow", WaitFor:2)
+--Click "DownArrow"
+Click "SaveAndReturn"
+EndTestCase "scrolling"
+
+BeginTestCase "Close_app"
+Click "bn_close"
+Click (image:"bn_DontSave", waitFor:10)
+EndTestCase "Close_app"
+
+BeginTestCase "Agenda"
+if imageFound(imageName:"Albelli") then DoubleClick foundImageLocation()
+Click (Image:"Newproduct", WaitFor:20)
+Click "Agenda's"
+Click "SchoolAgenda"
+Click "Ok_school"
+wait 40
+DragandDrop "Photo_1", (757, 348)
+
+Click (ImageName:"InsertTab", Wait:10)
+Click (ImageName:"AddText_disabled", WaitFor:60)
+Click "AddNewImage_disabled"
+Click "AddImage_disabled"
+Click "SpreadImages_disabled"
+--Click "Border_disabled"
+Click "Clipart_disabled"
+Click "ProductTab"
+--Click "Save_disabled"
+Click "ProductExtra_disabled"
+Click "ChageSize_disabled"
+EndTestCase "Agenda"
+
+
+

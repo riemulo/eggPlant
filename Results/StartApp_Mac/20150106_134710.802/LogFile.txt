@@ -1,0 +1,12 @@
+﻿2015-01-06 13:47:10.803 +0100	START		Running StartApp_Mac.script
+2015-01-06 13:47:12.667 +0100	click	Application	at (1551, 1045)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:19.360 +0100	click	Alb_UK	at (906, 278)	9	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:22.735 +0100	click	BeginNewProduct	at (566, 840)	10	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:24.598 +0100	click	Uk_Mac	at (600, 258)	11	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:26.054 +0100	click	Square_UK	at (600, 258)	12	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:28.073 +0100	click	Sq_XL_Mac	at (600, 258)	13	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:30.186 +0100	click	NoCover_UK	at (861, 268)	14	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:31.256 +0100	click	NoLayflat_UK_Mac	at (822, 501)	15	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:33.244 +0100	click	Ok_extra_Mac	at (823, 571)	16	on_startapp_mac	StartApp_Mac.script
+2015-01-06 13:47:33.277 +0100	EndTestCase		(Duration:"22.472", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 13:47:10 +0100", Successes:"1", TestCase:"StartApp_Mac.script", Warnings:"0")
+2015-01-06 13:47:33.400 +0100	SUCCESS		Execution Time 0:00:23 StartApp_Mac.script

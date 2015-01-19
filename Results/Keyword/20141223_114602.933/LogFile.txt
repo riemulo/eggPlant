@@ -1,0 +1,13 @@
+﻿2014-12-23 11:46:02.934 +0100	START		Running Keyword.table
+2014-12-23 11:46:03.363 +0100	doubleclick	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-23 11:46:06.671 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-23 11:46:07.623 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-23 11:46:08.443 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-23 11:46:09.261 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-23 11:46:12.410 +0100	Exception	PhotoCover_UK	No Image Found On Screen: "PhotoCover_UK"	13	on_starteditor	StartEditor.script
+2014-12-23 11:46:13.385 +0100	click	FileTab	at (36, 35)	8	on_scrolling	Scrolling.script
+2014-12-23 11:46:15.225 +0100	Exception	Settings	No Image Found On Screen: "Settings"	9	on_scrolling	Scrolling.script
+2014-12-23 11:46:17.046 +0100	Exception	bn_close	No Image Found On Screen: "bn_close"	8	on_close_editor	Close_editor.script
+2014-12-23 11:46:18.934 +0100	Exception	Albelli	No Image Found On Screen: "Albelli"	8	on_agenda	Agenda.script
+2014-12-23 11:46:18.936 +0100	EndTestCase		(Duration:"16.001", Errors:"1", Exceptions:"4", StartTime:"2014-12-23 11:46:02 +0100", Successes:"0", TestCase:"Keyword.table", Warnings:"0")
+2014-12-23 11:46:19.140 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Albelli" -- Execution Time 0:00:16 Keyword.table

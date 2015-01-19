@@ -1,0 +1,9 @@
+﻿2015-01-09 14:22:34.741 +0100	START		Running Add cover&pics.script	17	on_sendemail	sendEmail.script
+2015-01-09 14:22:35.465 +0100	click	Extras	at (591, 67)	10	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:22:36.492 +0100	click	Photocover_Mac	at (706, 205)	11	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:22:38.174 +0100	click	Ok_extra_Mac/Ok_extra_2	at (979, 561)	12	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:22:40.789 +0100	click	Cover	at (469, 942)	13	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:22:42.105 +0100	draganddrop		begin drag from (126, 414)	14	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:23:09.681 +0100	Exception	Placeholder_mac	Image #2 Not Found On Screen "Placeholder_mac" - Dropped	14	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:23:09.688 +0100	EndTestCase		(Duration:"34.944", Errors:"1", Exceptions:"1", StartTime:"2015-01-09 14:22:34 +0100", Successes:"0", TestCase:"Add cover&pics.script", Warnings:"0")	17	on_sendemail	sendEmail.script
+2015-01-09 14:23:10.351 +0100	FAILURE	Screen_Error.png	Image Not Found draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped -- Execution Time 0:00:35 Add cover&pics.script	17	on_sendemail	sendEmail.script

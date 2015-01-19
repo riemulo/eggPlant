@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Keyword.table" package="eggPlant V1.5.suite" timestamp="2015-01-06 13:02:05.044 +0100"
+ tests="5" successes="0" errors="1" time="108.513000">
+  <properties>
+   <property name="RunDate" value="2015-01-06 13:02:05.044 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="startEditor" assertions="0" successes="0" errors="0" time="24.721">
+  </testcase>
+  <testcase name="scrolling" assertions="0" successes="0" errors="0" time="6.365">
+  </testcase>
+  <testcase name="Close_app" assertions="0" successes="0" errors="0" time="3.108">
+  </testcase>
+  <testcase name="Agenda" assertions="0" successes="0" errors="0" time="59.388">
+  </testcase>
+  <testcase name="Keyword.table" assertions="1" successes="0" errors="1" time="108.512">
+  </testcase>
+ </testsuite>
+</testsuites>

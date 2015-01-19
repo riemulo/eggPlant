@@ -1,0 +1,6 @@
+1	0.000999982	start	
+2	5.166	mouseDown	{button:1, clickCount:1, hotSpot:[630, 376]}
+3	5.317	mouseUp	{button:1, clickCount:1, hotSpot:[630, 376]}
+4	6.779	mouseMoved	{hotSpot:[644, 401]}
+5	6.842	scrollDown	{amount:-13}
+6	12.124	end	

@@ -1,0 +1,32 @@
+{
+    commandList = "[{captureRect:[178, 719, 248, 749], command:@\"Click\", eventNum:2, hotSpot:[213, 34], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"InsertPage\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0002.png\"}, {captureRect:[0, 676, 66, 706], command:@\"Click\", eventNum:4, hotSpot:[31, 77], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0004.png\"}, {captureRect:[526, 434, 596, 464], command:@\"Click\", eventNum:6, hotSpot:[561, 319], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0006.png\"}, {captureRect:[786, 418, 856, 448], command:@\"Click\", eventNum:8, hotSpot:[821, 335], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0005\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0008.png\"}, {captureRect:[787, 319, 857, 349], command:@\"DoubleClick\", eventNum:10, hotSpot:[822, 434], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0006\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0010.png\"}, {command:@\"TypeText\", eventNum:15, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0015.png\", text:@\"\\\"Selam Zeray\\\"\"}, {captureRect:[378, 239, 448, 269], command:@\"Click\", eventNum:40, hotSpot:[413, 514], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0007\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0040.png\"}, {captureRect:[785, 230, 855, 260], command:@\"Click\", eventNum:42, hotSpot:[820, 523], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0008\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145355.525/Screen0042.png\"}]";
+    generatedCommands = (
+	"Click \"InsertPage\"",
+	"Click \"image0003\"",
+	"Click \"image0004\"",
+	"Click \"image0005\"",
+	"DoubleClick \"image0006\"",
+	"TypeText \"Selam Zeray\"",
+	"Click \"image0007\"",
+	"Click \"image0008\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "InsertPage.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "image0006.png",
+	    "image0007.png",
+	    "image0008.png",
+	    "InsertPage.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "image0006.png",
+	    "image0007.png",
+	    "image0008.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

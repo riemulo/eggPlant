@@ -1,0 +1,4 @@
+﻿2014-12-17 16:53:03.020 +0100	START		Running Agenda.script
+2014-12-17 16:53:10.560 +0100	Exception	Albelli	No Image Found On Screen: "Albelli"	8	on_agenda	Agenda.script
+2014-12-17 16:53:10.585 +0100	EndTestCase		(Duration:"7.562", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 16:53:03 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-17 16:53:10.586 +0100	ABORTED		Execution Time 0:00:07 Agenda.script

@@ -1,0 +1,8 @@
+﻿2015-01-06 15:59:38.714 +0100	START		Running test_3.script
+2015-01-06 15:59:38.744 +0100	BeginTestCase		scrolling	8	on_test_3	test_3.script
+2015-01-06 15:59:39.861 +0100	click	FileTab	at (36, 35)	9	on_test_3	test_3.script
+2015-01-06 15:59:40.823 +0100	click	Settings	at (28, 243)	10	on_test_3	test_3.script
+2015-01-06 16:00:04.865 +0100	Exception	SettingWIndow	No Image Found On Screen: "SettingWIndow"	11	on_test_3	test_3.script
+2015-01-06 16:00:04.910 +0100	EndTestCase		(Duration:"26.164", Errors:"1", Exceptions:"1", StartTime:"2015-01-06 15:59:38 +0100", Successes:"0", TestCase:"scrolling", Warnings:"0")
+2015-01-06 16:00:04.914 +0100	EndTestCase		(Duration:"26.197", Errors:"1", Exceptions:"1", StartTime:"2015-01-06 15:59:38 +0100", Successes:"0", TestCase:"test_3.script", Warnings:"0")
+2015-01-06 16:00:05.021 +0100	FAILURE	Screen_Error.png	Image Not Found moveto Error - No Image Found On Screen: "SettingWIndow" -- Execution Time 0:00:26 test_3.script

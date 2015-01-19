@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Waiting">
+ <run>
+  <RunDate>2014-12-10 17:12:06.957 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20141210_171206.957/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-10 17:13:07.054 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.445000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141210_171307.054/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Parameters -- Invalid Parameter, please use wait <time in seconds></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-10 17:15:33.467 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>32.564000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141210_171533.467/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "Nothanks"</ErrorMessage>
+ </run>
+</runHistory>

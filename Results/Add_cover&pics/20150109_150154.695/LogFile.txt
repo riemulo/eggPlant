@@ -1,0 +1,5 @@
+﻿2015-01-09 15:01:54.696 +0100	START		Running Add cover&pics.script	17	on_sendemail	sendEmail.script
+2015-01-09 15:02:05.071 +0100	click	Extras	at (557, 77)	10	on_add_cover_pics	Add cover&pics.script
+2015-01-09 15:02:06.184 +0100	click	Photocover_Mac	at (672, 215)	11	on_add_cover_pics	Add cover&pics.script
+2015-01-09 15:02:06.193 +0100	EndTestCase		(Duration:"11.492", Errors:"1", Exceptions:"0", StartTime:"2015-01-09 15:01:54 +0100", Successes:"0", TestCase:"Add cover&pics.script", Warnings:"0")	17	on_sendemail	sendEmail.script
+2015-01-09 15:02:06.196 +0100	ABORTED		Execution Time 0:00:12 Add cover&pics.script	17	on_sendemail	sendEmail.script

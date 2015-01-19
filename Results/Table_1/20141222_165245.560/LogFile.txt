@@ -1,0 +1,9 @@
+﻿2014-12-22 16:52:45.561 +0100	START		Running Table_1.table
+2014-12-22 16:52:46.028 +0100	doubleclick	image0001	at (470, 16)
+2014-12-22 16:52:46.029 +0100	connect		10.41.10.32:(null)
+2014-12-22 16:52:47.222 +0100	click	New_product	at (38, 201)
+2014-12-22 16:52:47.224 +0100	Exception	{{{ImageName}}}	Could Not Open Image: {{{ImageName}}}
+2014-12-22 16:52:49.039 +0100	Exception	image0005	No Image Found On Screen: "image0005"
+2014-12-22 16:52:49.984 +0100	click	image0006	at (202, 291)
+2014-12-22 16:52:50.000 +0100	EndTestCase		(Duration:"4.432", Errors:"1", Exceptions:"2", StartTime:"2014-12-22 16:52:45 +0100", Successes:"0", TestCase:"Table_1.table", Warnings:"0")
+2014-12-22 16:52:50.196 +0100	FAILURE	Screen_Error.png	Connection Failed Unable to connect to Server: on port:0\nNo Host Specified -- Execution Time 0:00:04 Table_1.table

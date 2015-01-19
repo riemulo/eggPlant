@@ -1,0 +1,4 @@
+﻿2014-12-23 10:06:22.582 +0100	START		Running key.script
+2014-12-23 10:06:28.751 +0100	Exception	image0013	No Image Found On Screen: "image0013"	8	on_key	key.script
+2014-12-23 10:06:28.802 +0100	EndTestCase		(Duration:"6.218", Errors:"1", Exceptions:"1", StartTime:"2014-12-23 10:06:22 +0100", Successes:"0", TestCase:"key.script", Warnings:"0")
+2014-12-23 10:06:28.804 +0100	ABORTED		Execution Time 0:00:06 key.script

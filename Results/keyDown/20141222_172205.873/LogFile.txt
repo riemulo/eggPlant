@@ -1,0 +1,21 @@
+﻿2014-12-22 17:22:05.875 +0100	START		Running keyDown.script
+2014-12-22 17:22:05.989 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:22:06.866 +0100	click		at (41, 500)	8	on_keydown	keyDown.script
+2014-12-22 17:22:07.707 +0100	click		at (41, 580)	9	on_keydown	keyDown.script
+2014-12-22 17:22:08.539 +0100	click		at (41, 650)	10	on_keydown	keyDown.script
+2014-12-22 17:22:09.559 +0100	click		at (120, 386)	11	on_keydown	keyDown.script
+2014-12-22 17:22:10.418 +0100	click		at (220, 386)	12	on_keydown	keyDown.script
+2014-12-22 17:22:11.353 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:22:12.230 +0100	click		at (41, 500)	8	on_keydown	keyDown.script
+2014-12-22 17:22:13.071 +0100	click		at (41, 580)	9	on_keydown	keyDown.script
+2014-12-22 17:22:13.902 +0100	click		at (41, 650)	10	on_keydown	keyDown.script
+2014-12-22 17:22:14.923 +0100	click		at (120, 386)	11	on_keydown	keyDown.script
+2014-12-22 17:22:15.781 +0100	click		at (220, 386)	12	on_keydown	keyDown.script
+2014-12-22 17:22:16.717 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:22:17.594 +0100	click		at (41, 500)	8	on_keydown	keyDown.script
+2014-12-22 17:22:18.434 +0100	click		at (41, 580)	9	on_keydown	keyDown.script
+2014-12-22 17:22:19.266 +0100	click		at (41, 650)	10	on_keydown	keyDown.script
+2014-12-22 17:22:20.286 +0100	click		at (120, 386)	11	on_keydown	keyDown.script
+2014-12-22 17:22:21.145 +0100	click		at (220, 386)	12	on_keydown	keyDown.script
+2014-12-22 17:22:21.895 +0100	EndTestCase		(Duration:"16.017", Errors:"1", Exceptions:"0", StartTime:"2014-12-22 17:22:05 +0100", Successes:"0", TestCase:"keyDown.script", Warnings:"0")
+2014-12-22 17:22:21.896 +0100	ABORTED		Execution Time 0:00:16 keyDown.script

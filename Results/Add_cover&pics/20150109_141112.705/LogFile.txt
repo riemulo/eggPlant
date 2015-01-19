@@ -1,0 +1,5 @@
+﻿2015-01-09 14:11:12.706 +0100	START		Running Add cover&pics.script
+2015-01-09 14:11:25.300 +0100	click	Extras	at (591, 67)	8	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:11:41.814 +0100	Exception	Photocover_Mac	No Image Found On Screen: "Photocover_Mac"	9	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:11:41.839 +0100	EndTestCase		(Duration:"29.13", Errors:"1", Exceptions:"1", StartTime:"2015-01-09 14:11:12 +0100", Successes:"0", TestCase:"Add cover&pics.script", Warnings:"0")
+2015-01-09 14:11:41.840 +0100	ABORTED		Execution Time 0:00:29 Add cover&pics.script

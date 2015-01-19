@@ -1,0 +1,6 @@
+﻿2014-12-17 16:54:09.905 +0100	START		Running Agenda.script
+2014-12-17 16:54:10.522 +0100	click	Albelli	at (435, 24)	8	on_agenda	Agenda.script
+2014-12-17 16:54:11.710 +0100	doubleclick	Albelli/Albelli_selected	at (432, 25)	9	on_agenda	Agenda.script
+2014-12-17 16:54:17.844 +0100	Exception	Newproduct	No Image Found On Screen: "Newproduct"	10	on_agenda	Agenda.script
+2014-12-17 16:54:17.897 +0100	EndTestCase		(Duration:"7.988", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 16:54:09 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-17 16:54:17.899 +0100	ABORTED		Execution Time 0:00:08 Agenda.script

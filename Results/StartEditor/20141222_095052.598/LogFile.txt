@@ -1,0 +1,3 @@
+﻿2014-12-22 09:50:52.599 +0100	START		Running StartEditor.script
+2014-12-22 09:50:55.353 +0100	EndTestCase		(Duration:"2.75", Errors:"1", Exceptions:"0", StartTime:"2014-12-22 09:50:52 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-22 09:50:55.354 +0100	ABORTED		Execution Time 0:00:03 StartEditor.script

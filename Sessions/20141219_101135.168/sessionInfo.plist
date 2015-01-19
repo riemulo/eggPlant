@@ -1,0 +1,33 @@
+{
+    commandList = "[{captureRect:[2, 722, 56, 745], command:@\"Click\", eventNum:2, hotSpot:[36, 35], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"FileTab\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0002.png\"}, {captureRect:[2, 504, 44, 538], command:@\"Click\", eventNum:4, hotSpot:[60, 243], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Settings\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0004.png\"}, {captureRect:[534, 458, 604, 488], command:@\"MoveTo\", eventNum:6, hotSpot:[569, 295], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SettingWIndow\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0006.png\"}, {command:@\"ScrollWheelUp\", eventNum:7, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0006.png\", text:@\"7.0\"}, {captureRect:[534, 458, 604, 488], command:@\"MoveTo\", eventNum:8, hotSpot:[569, 295], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SettingWindow2\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0008.png\"}, {command:@\"ScrollWheelUp\", eventNum:9, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0008.png\", text:@\"7.0\"}, {captureRect:[999, 59, 1017, 80], command:@\"Click\", eventNum:10, hotSpot:[1006, 702], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"DownArrow\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0010.png\"}, {captureRect:[999, 57, 1024, 78], command:@\"Click\", eventNum:16, hotSpot:[1006, 702], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"DownArrow\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0016.png\"}, {captureRect:[12, 682, 60, 717], command:@\"Click\", eventNum:22, hotSpot:[28, 71], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SaveAndReturn\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_101135.168/Screen0022.png\"}]";
+    generatedCommands = (
+	"Click \"FileTab\"",
+	"Click \"Settings\"",
+	"MoveTo \"SettingWIndow\"",
+	"ScrollWheelUp 7.0",
+	"MoveTo \"SettingWindow2\"",
+	"ScrollWheelUp 7.0",
+	"Click \"DownArrow\"",
+	"Click \"DownArrow\"",
+	"Click \"SaveAndReturn\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "FileTab.png",
+	    "Settings.png",
+	    "SettingWIndow.png",
+	    "SettingWindow2.png",
+	    "DownArrow.png",
+	    "SaveAndReturn.png",
+	    "DownArrow.png",
+	    "FileTab.png",
+	    "Settings.png",
+	    "SettingWIndow.png",
+	    "SettingWindow2.png",
+	    "DownArrow.png",
+	    "DownArrow.png",
+	    "SaveAndReturn.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

@@ -1,0 +1,22 @@
+{
+    commandList = "[{captureRect:[269, 29, 339, 59], command:@\"Click\", eventNum:2, hotSpot:[304, 724], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"PortraitM15x20on\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145110.208/Screen0002.png\"}, {captureRect:[392, 29, 462, 59], command:@\"Click\", eventNum:4, hotSpot:[427, 724], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"cover\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145110.208/Screen0004.png\"}, {captureRect:[436, 737, 506, 767], command:@\"Click\", eventNum:6, hotSpot:[471, 16], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145110.208/Screen0006.png\"}, {captureRect:[523, 737, 593, 767], command:@\"Click\", eventNum:8, hotSpot:[558, 16], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_145110.208/Screen0008.png\"}]";
+    generatedCommands = (
+	"Click \"PortraitM15x20on\"",
+	"Click \"cover\"",
+	"Click \"image0001\"",
+	"Click \"image0002\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "PortraitM15x20on.png",
+	    "PortraitM15x20on.png",
+	    "cover.png",
+	    "cover.png",
+	    "image0001.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "image0002.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

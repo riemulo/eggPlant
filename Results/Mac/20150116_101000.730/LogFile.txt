@@ -1,0 +1,5 @@
+﻿2015-01-16 10:10:00.730 +0100	START		Running Mac.table
+2015-01-16 10:10:00.769 +0100	runwithnewresults		StartApp_Mac.script (C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Results/StartApp_Mac/20150116_101000.768/LogFile.txt)	17	on_sendemail	sendEmail.script
+2015-01-16 10:10:22.625 +0100	sendmail		Email Sent To: seniselam21@gmail.com, selamawit.demewoz@albumprinter.com	34	on_sendemail	sendEmail.script
+2015-01-16 10:10:22.627 +0100	EndTestCase		(Duration:"21.896", Errors:"0", Exceptions:"0", StartTime:"2015-01-16 10:10:00 +0100", Successes:"2", TestCase:"Mac.table", Warnings:"0")
+2015-01-16 10:10:22.817 +0100	SUCCESS		Execution Time 0:00:22 Mac.table

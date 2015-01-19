@@ -1,0 +1,4 @@
+﻿2014-12-17 17:17:33.704 +0100	START		Running StartEditor.script
+2014-12-17 17:17:36.226 +0100	Exception	image0036	No Image Found On Screen: "image0036"	8	on_starteditor	StartEditor.script
+2014-12-17 17:17:36.284 +0100	EndTestCase		(Duration:"2.577", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 17:17:33 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-17 17:17:36.287 +0100	ABORTED		Execution Time 0:00:03 StartEditor.script

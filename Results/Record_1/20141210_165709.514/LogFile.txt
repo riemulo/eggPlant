@@ -1,0 +1,6 @@
+﻿2014-12-10 16:57:09.516 +0100	START		Running Record_1.script
+2014-12-10 16:57:10.382 +0100	click	image0001	at (429, 45)	8	on_record_1	Record_1.script
+2014-12-10 16:57:11.189 +0100	doubleclick	image0002	at (429, 36)	9	on_record_1	Record_1.script
+2014-12-10 16:57:11.191 +0100	Exception	image0003	Could Not Open Image: image0003	10	on_record_1	Record_1.script
+2014-12-10 16:57:11.196 +0100	EndTestCase		(Duration:"1.678", Errors:"1", Exceptions:"1", StartTime:"2014-12-10 16:57:09 +0100", Successes:"0", TestCase:"Record_1.script", Warnings:"0")
+2014-12-10 16:57:11.399 +0100	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: image0003 -- Execution Time 0:00:02 Record_1.script

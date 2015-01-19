@@ -1,0 +1,4 @@
+﻿2015-01-16 10:03:05.145 +0100	START		Running sendEmail.script
+2015-01-16 10:03:05.331 +0100	Exception		Unable to locate script named: Add cover&pics	17	on_sendemail	sendEmail.script
+2015-01-16 10:03:05.353 +0100	EndTestCase		(Duration:"0.204", Errors:"1", Exceptions:"1", StartTime:"2015-01-16 10:03:05 +0100", Successes:"0", TestCase:"sendEmail.script", Warnings:"0")
+2015-01-16 10:03:05.614 +0100	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: Add cover&pics -- Execution Time 0:00:00 sendEmail.script

@@ -1,0 +1,7 @@
+{
+    commandList = "[{command:@\"TypeText\", eventNum:2, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_145813.556/Screen0002.png\", text:@\"Escape\"}]";
+    generatedCommands = (
+	"TypeText Escape"
+    );
+    unnamedImageCount = <*I0>;
+}

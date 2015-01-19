@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="StartApp_Mac.script" package="eggPlant V1.5.suite" timestamp="2015-01-13 16:40:40.877 +0100"
+ tests="1" successes="0" errors="1" time="50.326000">
+  <properties>
+   <property name="RunDate" value="2015-01-13 16:40:40.877 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="StartApp_Mac.script" assertions="1" successes="0" errors="1" time="50.323">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,16 @@
+﻿2015-01-09 12:36:00.603 +0100	click	Application/Application	at (1643, 1043)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:36:03.052 +0100	click	Albelli_UK	at (1254, 262)	9	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:36:45.792 +0100	Exception	BeginNewProduct	No Image Found On Screen: "BeginNewProduct"	10	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:36:45.892 +0100	ERROR		Error during pre-run script StartApp_Mac.script: <NSException: 0xcbff140> NAME:Image Not Found REASON:click Error - No Image Found On Screen: "BeginNewProduct" INFO:{CallStack = ("(Handler:\"startapp_mac\", Line:\"10\", MeObjectID:\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Scripts/StartApp_Mac.script\", MessageName:\"on_startapp_mac\", MessageType:\"Command\", objectType:\"SenseTalkFrame\", RepeatIndex:\"0\", ScriptObjectID:\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Scripts/StartApp_Mac.script\", TryDepth:\"0\")"); HelpNote = "For additional help please review the 'Image Searching' section of the 'Using eggPlant' manual."; ImageName = BeginNewProduct; LogImage = BeginNewProduct; LogMessage = "No Image Found On Screen: \"BeginNewProduct\""; OtherButton = "Help..."; OtherHelp = "finding-images.html"; ScriptError = "Runtime Error at line 10: Image Not Found - click Error - No Image Found On Screen: \"BeginNewProduct\""; }
+2015-01-09 12:36:45.893 +0100	START		Running StartApp_Mac.script
+2015-01-09 12:36:49.835 +0100	click	Application/Application	at (1670, 1041)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:36:54.717 +0100	click	Albelli_UK	at (1254, 264)	9	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:36:57.126 +0100	click	BeginNewProduct	at (524, 835)	10	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:36:58.474 +0100	click	Alb_UK	at (596, 319)	11	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:37:00.049 +0100	click	Square_UK	at (600, 256)	12	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:37:01.530 +0100	click	Sq_XL_Mac	at (600, 256)	13	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:37:04.567 +0100	click	NoCover_UK	at (763, 265)	14	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:37:05.646 +0100	click	NoLayflat_UK_Mac	at (724, 498)	15	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:37:07.692 +0100	click	Ok_extra_Mac	at (725, 568)	16	on_startapp_mac	StartApp_Mac.script
+2015-01-09 12:37:07.699 +0100	EndTestCase		(Duration:"21.796", Errors:"0", Exceptions:"0", StartTime:"2015-01-09 12:36:45 +0100", Successes:"1", TestCase:"StartApp_Mac.script", Warnings:"0")
+2015-01-09 12:37:08.020 +0100	SUCCESS		Execution Time 0:01:09 StartApp_Mac.script

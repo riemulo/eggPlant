@@ -1,0 +1,6 @@
+﻿2015-01-06 15:50:53.444 +0100	START		Running StartApp_Mac.script
+2015-01-06 15:50:55.468 +0100	click	Application	at (1551, 1045)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-06 15:50:58.297 +0100	click	Alb_UK	at (906, 278)	9	on_startapp_mac	StartApp_Mac.script
+2015-01-06 15:51:20.989 +0100	Exception	BeginNewProduct	No Image Found On Screen: "BeginNewProduct"	10	on_startapp_mac	StartApp_Mac.script
+2015-01-06 15:51:21.026 +0100	EndTestCase		(Duration:"27.579", Errors:"1", Exceptions:"1", StartTime:"2015-01-06 15:50:53 +0100", Successes:"0", TestCase:"StartApp_Mac.script", Warnings:"0")
+2015-01-06 15:51:22.387 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "BeginNewProduct" -- Execution Time 0:00:28 StartApp_Mac.script

@@ -1,0 +1,26 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-17 16:52:42
+  From session:  Agenda
+  Captured on:  2014-12-17 16:37:36
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+if imageFound(imageName:"Albelli") then DoubleClick foundImageLocation()
+Click (Image:"Newproduct", WaitFor:20)
+Click "Agenda's"
+Click "SchoolAgenda"
+Click "Ok_school"
+wait 40
+--DragandDrop "Photo_1", (757, 348)
+Click (ImageName:"InsertTab", Wait:10)
+Click (ImageName:"AddText_disabled", WaitFor:60)
+Click "AddNewImage_disabled"
+Click "AddImage_disabled"
+Click "SpreadImages_disabled"
+Click "Border_disabled"
+Click "Clipart_disabled"
+Click "ProductTab"
+Click "Save_disabled"
+Click "ProductExtra_disabled"
+Click "ChageSize_disabled"
+

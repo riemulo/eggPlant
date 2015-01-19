@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="StartEditor">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2015-01-15 11:56:40 +0100</FirstRun>
+  <LastRun>2015-01-15 11:56:40 +0100</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="StartApp_WE">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2015-01-13 15:26:18 +0100</FirstRun>
+  <LastRun>2015-01-13 15:29:18 +0100</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="StartApp_Mac">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2015-01-13 16:40:40 +0100</FirstRun>
+  <LastRun>2015-01-16 10:10:00 +0100</LastRun>
+  <TotalTimeOnSuccess>37.031000</TotalTimeOnSuccess>
+ </script>
+ <script name="sendEmail">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2015-01-16 10:03:05 +0100</FirstRun>
+  <LastRun>2015-01-16 10:03:05 +0100</LastRun>
+  <TotalTimeOnSuccess>nan</TotalTimeOnSuccess>
+ </script>
+ <script name="Mac">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2015-01-16 10:05:11 +0100</FirstRun>
+  <LastRun>2015-01-16 10:10:00 +0100</LastRun>
+  <TotalTimeOnSuccess>21.896000</TotalTimeOnSuccess>
+ </script>
+</statistics>

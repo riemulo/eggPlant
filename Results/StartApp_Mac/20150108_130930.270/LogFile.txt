@@ -1,0 +1,4 @@
+﻿2015-01-08 13:09:30.272 +0100	START		Running StartApp_Mac.script
+2015-01-08 13:10:56.494 +0100	click	Application	at (1662, 1039)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-08 13:11:15.417 +0100	EndTestCase		(Duration:"105.141", Errors:"1", Exceptions:"0", StartTime:"2015-01-08 13:09:30 +0100", Successes:"0", TestCase:"StartApp_Mac.script", Warnings:"0")
+2015-01-08 13:11:15.418 +0100	ABORTED		Execution Time 0:01:45 StartApp_Mac.script

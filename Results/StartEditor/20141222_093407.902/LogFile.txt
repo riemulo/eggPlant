@@ -1,0 +1,9 @@
+﻿2014-12-22 09:34:07.903 +0100	START		Running StartEditor.script
+2014-12-22 09:34:08.549 +0100	doubleclick	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-22 09:34:12.552 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-22 09:34:13.504 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-22 09:34:14.331 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-22 09:34:15.152 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-22 09:34:39.560 +0100	Exception	PhotoCover_UK	No Image Found On Screen: "PhotoCover_UK"	13	on_starteditor	StartEditor.script
+2014-12-22 09:34:39.592 +0100	EndTestCase		(Duration:"31.686", Errors:"1", Exceptions:"1", StartTime:"2014-12-22 09:34:07 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-22 09:34:39.782 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "PhotoCover_UK" -- Execution Time 0:00:32 StartEditor.script

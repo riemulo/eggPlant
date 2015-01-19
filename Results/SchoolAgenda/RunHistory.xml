@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2014-12-09 16:58:03.283 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>2.347000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141209_165803.283/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-09 16:59:31.149 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>2.348000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141209_165931.149/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-09 17:04:06.995 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.645000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141209_170406.995/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-10 16:18:21.165 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.373000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141210_161821.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:10.41.10.53 on port:5900
+ARD/Screen Sharing is not configured.
+Please use System Preferences->Sharing to configure it so that VNC viewers may control the screen</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-11 12:54:45.310 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>12.395000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141211_125445.310/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "Nothanks"</ErrorMessage>
+ </run>
+</runHistory>

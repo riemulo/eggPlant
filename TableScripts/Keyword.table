@@ -1,0 +1,8 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>StartEditor</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Scrolling</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Close_editor</Action><Arguments></Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Agenda</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

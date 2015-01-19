@@ -1,0 +1,5 @@
+﻿2015-01-13 16:40:40.879 +0100	START		Running StartApp_Mac.script
+2015-01-13 16:40:45.499 +0100	click	Application/Application	at (1670, 1041)	8	on_startapp_mac	StartApp_Mac.script
+2015-01-13 16:41:31.164 +0100	Exception	Albelli_UK	No Image Found On Screen: "Albelli_UK"	9	on_startapp_mac	StartApp_Mac.script
+2015-01-13 16:41:31.205 +0100	EndTestCase		(Duration:"50.323", Errors:"1", Exceptions:"1", StartTime:"2015-01-13 16:40:40 +0100", Successes:"0", TestCase:"StartApp_Mac.script", Warnings:"0")
+2015-01-13 16:41:32.380 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Albelli_UK" -- Execution Time 0:00:51 StartApp_Mac.script

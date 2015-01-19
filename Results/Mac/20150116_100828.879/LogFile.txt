@@ -1,0 +1,13 @@
+﻿2015-01-16 10:08:28.880 +0100	START		Running Mac.table
+2015-01-16 10:08:30.204 +0100	click	Application/Application	at (1643, 1043)	10	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:32.570 +0100	click	Mac_UK	at (1256, 242)	11	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:36.709 +0100	click	BeginNewProduct	at (524, 834)	13	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:38.021 +0100	click	Alb_UK	at (596, 319)	14	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:39.535 +0100	click	Square_UK	at (600, 256)	15	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:41.002 +0100	click	Sq_XL_Mac	at (600, 256)	16	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:44.039 +0100	click	NoCover_UK	at (929, 261)	17	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:45.938 +0100	click	NoLayflat_UK_Mac	at (890, 494)	18	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:47.708 +0100	click	Ok_extra_Mac	at (889, 571)	19	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:08:47.711 +0100	Exception		Unable to locate script named: Add cover&pics	17	on_sendemail	sendEmail.script
+2015-01-16 10:08:47.713 +0100	EndTestCase		(Duration:"18.832", Errors:"1", Exceptions:"1", StartTime:"2015-01-16 10:08:28 +0100", Successes:"0", TestCase:"Mac.table", Warnings:"0")
+2015-01-16 10:08:48.267 +0100	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: Add cover&pics -- Execution Time 0:00:19 Mac.table

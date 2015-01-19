@@ -1,0 +1,4 @@
+﻿2014-12-09 16:58:03.284 +0100	START		Running Table_1.table
+2014-12-09 16:58:05.629 +0100	connect		10.41.10.32:(null)
+2014-12-09 16:58:05.631 +0100	EndTestCase		(Duration:"2.345", Errors:"0", Exceptions:"0", StartTime:"2014-12-09 16:58:03 +0100", Successes:"1", TestCase:"Table_1.table", Warnings:"0")
+2014-12-09 16:58:05.986 +0100	SUCCESS		Execution Time 0:00:02 Table_1.table

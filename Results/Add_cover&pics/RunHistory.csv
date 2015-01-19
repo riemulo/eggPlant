@@ -1,0 +1,29 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-01-09 14:11:12.705 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_141112.705/LogFile.txt","","",0
+2015-01-09 14:11:47.927 +0100,"Failure",0:00:55,1,0,1,"20150109_141147.927/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:12:47.744 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_141247.744/LogFile.txt","","",0
+2015-01-09 14:16:01.109 +0100,"Failure",0:00:43,1,0,1,"20150109_141601.109/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Cover""",0
+2015-01-09 14:16:45.347 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_141645.347/LogFile.txt","","",0
+2015-01-09 14:20:50.786 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_142050.786/LogFile.txt","","",0
+2015-01-09 14:21:20.505 +0100,"Failure",0:00:34,1,0,1,"20150109_142120.505/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:21:56.209 +0100,"Failure",0:00:37,1,0,1,"20150109_142156.209/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:22:34.739 +0100,"Failure",0:00:34,1,0,1,"20150109_142234.739/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:23:10.354 +0100,"Failure",0:00:36,1,0,1,"20150109_142310.354/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:23:47.002 +0100,"Failure",0:00:35,1,0,1,"20150109_142347.002/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:24:23.462 +0100,"Failure",0:00:36,1,0,1,"20150109_142423.462/LogFile.txt","","Image Not Found -- draganddrop Error - Image #2 Not Found On Screen ""Placeholder_mac"" - Dropped",0
+2015-01-09 14:25:00.236 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_142500.236/LogFile.txt","","",0
+2015-01-09 14:53:23.958 +0100,"Success",0:00:27,0,0,0,"20150109_145323.958/LogFile.txt","","",1
+2015-01-09 14:53:51.686 +0100,"Success",0:00:15,0,0,0,"20150109_145351.686/LogFile.txt","","",1
+2015-01-09 14:54:07.230 +0100,"Success",0:00:16,0,0,0,"20150109_145407.230/LogFile.txt","","",1
+2015-01-09 14:54:24.109 +0100,"Success",0:00:20,0,0,0,"20150109_145424.109/LogFile.txt","","",1
+2015-01-09 14:54:44.474 +0100,"Success",0:00:29,0,0,0,"20150109_145444.474/LogFile.txt","","",1
+2015-01-09 14:55:14.250 +0100,"Success",0:00:27,0,0,0,"20150109_145514.250/LogFile.txt","","",1
+2015-01-09 14:55:42.103 +0100,"Success",0:00:19,0,0,0,"20150109_145542.103/LogFile.txt","","",1
+2015-01-09 14:56:01.334 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_145601.334/LogFile.txt","","",0
+2015-01-09 14:56:38.449 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_145638.449/LogFile.txt","","",0
+2015-01-09 14:56:40.540 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_145640.540/LogFile.txt","","",0
+2015-01-09 14:57:53.224 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150109_145753.224/LogFile.txt","","",0
+2015-01-09 15:00:38.680 +0100,"Success",0:00:21,0,0,0,"20150109_150038.680/LogFile.txt","","",1
+2015-01-09 15:01:00.762 +0100,"Success",0:00:19,0,0,0,"20150109_150100.762/LogFile.txt","","",1
+2015-01-09 15:01:20.133 +0100,"Success",0:00:12,0,0,0,"20150109_150120.133/LogFile.txt","","",1
+2015-01-09 15:01:32.619 +0100,"Success",0:00:21,0,0,0,"20150109_150132.619/LogFile.txt","","",1

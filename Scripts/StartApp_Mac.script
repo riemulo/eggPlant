@@ -1,0 +1,26 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2015-01-06 13:37:35
+  From session:  StartApp_Mac
+  Captured on:  2015-01-06 13:28:32
+  From server:  Mavrix
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+Click "Tester"
+TypeText "tester"
+TypeText enter
+Click "Application/Application"
+Click "Mac_UK"
+wait 3
+Click "BeginNewProduct"
+Click "Alb_UK"
+Click "Square_UK"
+Click "Sq_XL_Mac"
+Click "NoCover_UK"
+Click "NoLayflat_UK_Mac"
+Click "Ok_extra_Mac"
+
+
+--TypeText Altkey, CommandKey, escape 
+
+
+
+

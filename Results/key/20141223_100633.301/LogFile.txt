@@ -1,0 +1,6 @@
+﻿2014-12-23 10:06:33.302 +0100	START		Running key.script
+2014-12-23 10:06:34.239 +0100	click	image0013	at (82, 383)	8	on_key	key.script
+2014-12-23 10:06:34.940 +0100	keydown		[controlKey]	9	on_key	key.script
+2014-12-23 10:06:35.641 +0100	keyup		[controlKey]	10	on_key	key.script
+2014-12-23 10:06:35.678 +0100	EndTestCase		(Duration:"2.372", Errors:"0", Exceptions:"0", StartTime:"2014-12-23 10:06:33 +0100", Successes:"1", TestCase:"key.script", Warnings:"0")
+2014-12-23 10:06:35.852 +0100	SUCCESS		Execution Time 0:00:02 key.script

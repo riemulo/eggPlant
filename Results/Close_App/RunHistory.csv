@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-23 10:56:25.231 +0100,"Failure",0:00:05,1,0,1,"20141223_105625.231/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Photobooks_Uk""",0
+2014-12-23 10:57:45.507 +0100,"Success",0:00:24,0,0,0,"20141223_105745.507/LogFile.txt","","",1
+2014-12-23 11:17:46.844 +0100,"Success",0:00:24,0,0,0,"20141223_111746.844/LogFile.txt","","",1

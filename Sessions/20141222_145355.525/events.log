@@ -1,0 +1,44 @@
+1	0.00100002	start	
+2	3.245	mouseDown	{button:1, clickCount:1, hotSpot:[213, 34]}
+3	3.373	mouseUp	{button:1, clickCount:1, hotSpot:[213, 34]}
+4	4.604	mouseDown	{button:1, clickCount:1, hotSpot:[31, 77]}
+5	4.739	mouseUp	{button:1, clickCount:1, hotSpot:[31, 77]}
+6	6.108	mouseDown	{button:1, clickCount:1, hotSpot:[561, 319]}
+7	8.076	mouseUp	{button:1, clickCount:1, hotSpot:[845, 402]}
+8	9.325	mouseDown	{button:1, clickCount:1, hotSpot:[821, 335]}
+9	11.692	mouseUp	{button:1, clickCount:1, hotSpot:[822, 407]}
+10	13.18	mouseDown	{button:1, clickCount:1, hotSpot:[822, 434]}
+11	13.325	mouseUp	{button:1, clickCount:1, hotSpot:[822, 434]}
+12	13.468	mouseDown	{button:1, clickCount:2, hotSpot:[822, 434]}
+13	13.596	mouseUp	{button:1, clickCount:2, hotSpot:[822, 434]}
+14	15.306	flagsChanged	131072
+15	15.563	keyDown	{modifiers:131072, string:@"S", theKey:@"s"}
+16	15.698	flagsChanged	0
+17	15.7	keyUp	{modifiers:0, string:@"s", theKey:@"s"}
+18	15.867	keyDown	{modifiers:0, string:@"e", theKey:@"e"}
+19	15.947	keyUp	{modifiers:0, string:@"e", theKey:@"e"}
+20	16.003	keyDown	{modifiers:0, string:@"l", theKey:@"l"}
+21	16.083	keyUp	{modifiers:0, string:@"l", theKey:@"l"}
+22	16.147	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+23	16.227	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+24	16.267	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+25	16.339	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+26	16.788	keyDown	{modifiers:0, string:@" ", theKey:@" "}
+27	16.867	keyUp	{modifiers:0, string:@" ", theKey:@" "}
+28	17.074	flagsChanged	131072
+29	17.371	keyDown	{modifiers:131072, string:@"Z", theKey:@"z"}
+30	17.501	flagsChanged	0
+31	17.508	keyUp	{modifiers:0, string:@"z", theKey:@"z"}
+32	17.891	keyDown	{modifiers:0, string:@"e", theKey:@"e"}
+33	17.963	keyUp	{modifiers:0, string:@"e", theKey:@"e"}
+34	18.131	keyDown	{modifiers:0, string:@"r", theKey:@"r"}
+35	18.227	keyUp	{modifiers:0, string:@"r", theKey:@"r"}
+36	18.323	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+37	18.395	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+38	18.491	keyDown	{modifiers:0, string:@"y", theKey:@"y"}
+39	18.571	keyUp	{modifiers:0, string:@"y", theKey:@"y"}
+40	20.971	mouseDown	{button:1, clickCount:1, hotSpot:[413, 514]}
+41	21.428	mouseUp	{button:1, clickCount:1, hotSpot:[413, 514]}
+42	23.623	mouseDown	{button:1, clickCount:1, hotSpot:[820, 523]}
+43	26.275	mouseUp	{button:1, clickCount:1, hotSpot:[817, 442]}
+44	28.354	end	

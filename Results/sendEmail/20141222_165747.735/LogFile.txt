@@ -1,0 +1,5 @@
+﻿2014-12-22 16:57:47.736 +0100	START		Running t.script
+2014-12-22 16:57:48.284 +0100	doubleclick	image0009	at (578, 30)	8	on_t	t.script
+2014-12-22 16:57:54.651 +0100	Exception	AlbelliPhotobooks	No Image Found On Screen: "AlbelliPhotobooks"	9	on_t	t.script
+2014-12-22 16:57:54.683 +0100	EndTestCase		(Duration:"6.944", Errors:"1", Exceptions:"1", StartTime:"2014-12-22 16:57:47 +0100", Successes:"0", TestCase:"t.script", Warnings:"0")
+2014-12-22 16:57:54.870 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "AlbelliPhotobooks" -- Execution Time 0:00:07 t.script

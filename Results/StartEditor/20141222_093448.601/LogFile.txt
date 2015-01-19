@@ -1,0 +1,25 @@
+﻿2014-12-22 09:34:48.602 +0100	START		Running StartEditor.script
+2014-12-22 09:34:49.137 +0100	doubleclick	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-22 09:34:52.148 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-22 09:34:53.099 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-22 09:34:53.926 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-22 09:34:54.747 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-22 09:34:57.985 +0100	click	PhotoCover_UK	at (229, 323)	13	on_starteditor	StartEditor.script
+2014-12-22 09:34:59.170 +0100	click	No_Layflat	at (650, 480)	14	on_starteditor	StartEditor.script
+2014-12-22 09:35:00.154 +0100	click	OK_books	at (806, 623)	15	on_starteditor	StartEditor.script
+2014-12-22 09:35:01.481 +0100	click	Manualfill	at (631, 566)	16	on_starteditor	StartEditor.script
+2014-12-22 09:35:02.790 +0100	draganddrop	Photo_1	begin drag from (66, 352)	17	on_starteditor	StartEditor.script
+2014-12-22 09:35:03.879 +0100	draganddrop	Placeholder	drag #2 to (476, 285)	17	on_starteditor	StartEditor.script
+2014-12-22 09:35:04.180 +0100	draganddrop	Placeholder	dropped at (476, 285)	17	on_starteditor	StartEditor.script
+2014-12-22 09:35:05.142 +0100	moveto	EmptyPhotoViewer	at (391, 12)	18	on_starteditor	StartEditor.script
+2014-12-22 09:35:05.842 +0100	scrollwheeldown		moved 1	19	on_starteditor	StartEditor.script
+2014-12-22 09:35:06.542 +0100	scrollwheelup		moved 1	20	on_starteditor	StartEditor.script
+2014-12-22 09:35:07.321 +0100	click	EmptyPhotoViewer	at (391, 12)	21	on_starteditor	StartEditor.script
+2014-12-22 09:35:08.516 +0100	draganddrop	Photo_2	begin drag from (285, 480)	22	on_starteditor	StartEditor.script
+2014-12-22 09:35:09.679 +0100	draganddrop	Placeholder	drag #2 to (757, 348)	22	on_starteditor	StartEditor.script
+2014-12-22 09:35:09.980 +0100	draganddrop	Placeholder	dropped at (757, 348)	22	on_starteditor	StartEditor.script
+2014-12-22 09:35:10.680 +0100	scrollwheelup		moved 1	23	on_starteditor	StartEditor.script
+2014-12-22 09:35:11.380 +0100	scrollwheeldown		moved 1	24	on_starteditor	StartEditor.script
+2014-12-22 09:35:25.136 +0100	Exception	Photo_3	No Image Found On Screen: "Photo_3"	25	on_starteditor	StartEditor.script
+2014-12-22 09:35:25.169 +0100	EndTestCase		(Duration:"36.564", Errors:"1", Exceptions:"1", StartTime:"2014-12-22 09:34:48 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-22 09:35:25.171 +0100	ABORTED		Execution Time 0:00:37 StartEditor.script

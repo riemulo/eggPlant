@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-01-13 15:22:12.100 +0100,"Running",-2147483648:-2147483648:-8,0,0,0,"20150113_152212.100/LogFile.txt","","",0
+2015-01-13 15:26:18.330 +0100,"Failure",0:00:04,1,0,1,"20150113_152618.330/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: SquarePhotoBooks",0
+2015-01-13 15:29:18.639 +0100,"Failure",0:00:25,1,0,1,"20150113_152918.639/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PhotoCover_UK""",0

@@ -1,0 +1,5 @@
+﻿2014-12-17 17:20:24.058 +0100	START		Running StartEditor.script
+2014-12-17 17:20:24.170 +0100	click	image0036	at (586, 25)	8	on_starteditor	StartEditor.script
+2014-12-17 17:20:31.655 +0100	Exception	New_product	No Image Found On Screen: "New_product"	9	on_starteditor	StartEditor.script
+2014-12-17 17:20:31.686 +0100	EndTestCase		(Duration:"7.625", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 17:20:24 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-17 17:20:31.687 +0100	ABORTED		Execution Time 0:00:07 StartEditor.script

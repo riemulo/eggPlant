@@ -1,0 +1,6 @@
+﻿2015-01-07 14:15:30.180 +0100	START		Running StartApp_WE.script	1	on_sendemail	sendEmail.script<SELECTION>
+2015-01-07 14:15:30.184 +0100	BeginTestCase		startEditor	1	on_startapp_we	StartApp_WE.script
+2015-01-07 14:15:41.338 +0100	Exception	Albelli_UK	No Image Found On Screen: "Albelli_UK"	2	on_startapp_we	StartApp_WE.script
+2015-01-07 14:15:41.343 +0100	EndTestCase		(Duration:"11.157", Errors:"1", Exceptions:"1", StartTime:"2015-01-07 14:15:30 +0100", Successes:"0", TestCase:"startEditor", Warnings:"0")	1	on_sendemail	sendEmail.script<SELECTION>
+2015-01-07 14:15:41.346 +0100	EndTestCase		(Duration:"11.162", Errors:"1", Exceptions:"1", StartTime:"2015-01-07 14:15:30 +0100", Successes:"0", TestCase:"StartApp_WE.script", Warnings:"0")	1	on_sendemail	sendEmail.script<SELECTION>
+2015-01-07 14:15:41.347 +0100	ABORTED		Execution Time 0:00:11 StartApp_WE.script	1	on_sendemail	sendEmail.script<SELECTION>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Scrolling">
+ <run>
+  <RunDate>2014-12-23 11:49:18.859 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>6.236000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141223_114918.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

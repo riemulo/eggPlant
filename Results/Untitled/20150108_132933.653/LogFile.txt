@@ -1,0 +1,12 @@
+﻿2015-01-08 13:29:33.654 +0100	START		Running Untitled.script
+2015-01-08 13:29:35.412 +0100	click	Application/Application/Application	at (1643, 1043)	8	on_untitled	Untitled.script
+2015-01-08 13:29:37.832 +0100	click	Albelli_UK/Albelli_UK	at (1254, 262)	9	on_untitled	Untitled.script
+2015-01-08 13:29:41.201 +0100	click	BeginNewProduct	at (567, 833)	10	on_untitled	Untitled.script
+2015-01-08 13:29:43.026 +0100	click	Alb_UK	at (596, 319)	11	on_untitled	Untitled.script
+2015-01-08 13:29:45.520 +0100	click	image0002	at (596, 319)	12	on_untitled	Untitled.script
+2015-01-08 13:29:46.951 +0100	click	image0001	at (596, 319)	13	on_untitled	Untitled.script
+2015-01-08 13:29:48.909 +0100	click	image0003	at (730, 268)	14	on_untitled	Untitled.script
+2015-01-08 13:29:49.921 +0100	click	RegularCover_0001	at (718, 294)	15	on_untitled	Untitled.script
+2015-01-08 13:29:51.794 +0100	click	Regular	at (720, 292)	16	on_untitled	Untitled.script
+2015-01-08 13:30:15.432 +0100	EndTestCase		(Duration:"41.775", Errors:"1", Exceptions:"0", StartTime:"2015-01-08 13:29:33 +0100", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2015-01-08 13:30:15.434 +0100	ABORTED		Execution Time 0:00:42 Untitled.script

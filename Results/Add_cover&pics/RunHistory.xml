@@ -1,0 +1,339 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Add cover&pics">
+ <run>
+  <RunDate>2015-01-09 14:11:12.705 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_141112.705/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:11:47.927 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>55.079000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_141147.927/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:12:47.744 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_141247.744/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:16:01.109 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>43.834000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_141601.109/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "Cover"</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:16:45.347 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_141645.347/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:20:50.786 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_142050.786/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:21:20.505 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>34.973000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_142120.505/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:21:56.209 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>37.884000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_142156.209/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:22:34.739 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>34.947000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_142234.739/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:23:10.354 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.022000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_142310.354/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:23:47.002 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>35.818000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_142347.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:24:23.462 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.063000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150109_142423.462/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- draganddrop Error - Image #2 Not Found On Screen "Placeholder_mac" - Dropped</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:25:00.236 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_142500.236/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:53:23.958 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>27.641000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145323.958/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:53:51.686 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>15.434000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145351.686/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:54:07.230 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>16.808000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145407.230/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:54:24.109 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>20.292000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145424.109/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:54:44.474 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>29.664000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145444.474/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:55:14.250 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>27.729000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145514.250/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:55:42.103 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>19.146000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_145542.103/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 14:56:01.334 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_145601.334/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:56:38.449 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_145638.449/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:56:40.540 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_145640.540/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 14:57:53.224 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>nan</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20150109_145753.224/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-01-09 15:00:38.680 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>21.988000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_150038.680/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 15:01:00.762 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>19.275000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_150100.762/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 15:01:20.133 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>12.362000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_150120.133/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-09 15:01:32.619 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>21.823000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150109_150132.619/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

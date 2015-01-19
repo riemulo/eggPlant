@@ -1,0 +1,22 @@
+﻿BeginTestCase "startEditor"
+DoubleClick (Image:"Albelli_UK", WaitFor:5)
+--Click (Image:"image0036", WaitFor:10)
+Click (Image:"New_product", WaitFor:20)
+Click "Photobooks_Uk"
+Click "Square_UK"
+Click (Image:"Square_XL_UK", WaitFor:25)
+Click "PhotoCover_UK"
+Click "No_Layflat"
+Click "OK_books"
+Click "Manualfill"
+DragandDrop "Photo_1", (757, 348) -- "Placeholder" --(757, 348)
+MoveTo (291,342) --"EmptyPhotoViewer" --(291,342)
+ScrollWheelDown 1.0
+ScrollWheelUp 1.0
+Click (291,342)
+DragandDrop "Photo_2", "Placeholder"
+ScrollWheelUp 1.0
+ScrollWheelDown 1.0
+MoveTo (291,342)
+ScrollWheelDown 5.0
+EndTestCase "startEditor"

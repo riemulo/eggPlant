@@ -1,0 +1,10 @@
+﻿2014-12-19 10:27:43.199 +0100	START		Running Scrolling.script
+2014-12-19 10:27:44.185 +0100	click	FileTab	at (36, 35)	8	on_scrolling	Scrolling.script
+2014-12-19 10:27:45.150 +0100	click	Settings	at (60, 243)	9	on_scrolling	Scrolling.script
+2014-12-19 10:27:46.107 +0100	moveto	SettingWIndow	at (325, 181)	10	on_scrolling	Scrolling.script
+2014-12-19 10:27:46.807 +0100	scrollwheeldown		moved 13	11	on_scrolling	Scrolling.script
+2014-12-19 10:27:47.506 +0100	scrollwheelup		moved 7	12	on_scrolling	Scrolling.script
+2014-12-19 10:27:48.283 +0100	moveto	SettingWindow2	at (399, 181)	13	on_scrolling	Scrolling.script
+2014-12-19 10:27:49.404 +0100	click	SaveAndReturn	at (28, 71)	17	on_scrolling	Scrolling.script
+2014-12-19 10:27:49.452 +0100	EndTestCase		(Duration:"6.249", Errors:"0", Exceptions:"0", StartTime:"2014-12-19 10:27:43 +0100", Successes:"1", TestCase:"Scrolling.script", Warnings:"0")
+2014-12-19 10:27:49.516 +0100	SUCCESS		Execution Time 0:00:06 Scrolling.script

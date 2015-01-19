@@ -1,0 +1,52 @@
+{
+    commandList = "[{captureRect:[401, 712, 464, 765], command:@\"Click\", eventNum:2, hotSpot:[4.2901525900000001e+002, 4.5664856000000000e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0002.png\"}, {captureRect:[394, 716, 464, 764], command:@\"DoubleClick\", eventNum:4, hotSpot:[4.2901525900000001e+002, 3.6324280000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0004.png\"}, {captureRect:[0, 677, 65, 717], command:@\"Click\", eventNum:8, hotSpot:[3.0271149000000001e+001, 7.5762146000000001e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0008.png\"}, {captureRect:[74, 502, 144, 532], command:@\"Click\", eventNum:10, hotSpot:[1.0960244000000000e+002, 2.5011889600000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0010.png\"}, {captureRect:[76, 500, 146, 530], command:@\"Click\", eventNum:12, hotSpot:[1.1169010900000001e+002, 2.5219458000000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0005\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0012.png\"}, {captureRect:[76, 500, 146, 530], command:@\"Click\", eventNum:14, hotSpot:[1.1169010900000001e+002, 2.5219458000000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0006\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0014.png\"}, {captureRect:[582, 465, 652, 495], command:@\"Click\", eventNum:16, hotSpot:[6.1794897500000002e+002, 2.8748107900000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0007\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0016.png\"}, {captureRect:[581, 305, 651, 335], command:@\"Click\", eventNum:18, hotSpot:[6.1690515100000005e+002, 4.4730810500000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0008\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0018.png\"}, {captureRect:[799, 142, 869, 172], command:@\"Click\", eventNum:20, hotSpot:[8.3402239999999995e+002, 6.1024865699999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0009\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0020.png\"}, {captureRect:[669, 175, 739, 205], command:@\"Click\", eventNum:22, hotSpot:[7.0458709699999997e+002, 5.7703784199999996e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Manualfill\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0022.png\"}, {captureRect:[215, 361, 285, 391], command:@\"Click\", eventNum:24, hotSpot:[2.5051986700000000e+002, 3.9126486199999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0010\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0024.png\"}, {captureRect:[692, 177, 762, 207], command:@\"Click\", eventNum:26, hotSpot:[7.2755145300000004e+002, 576], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0011\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0026.png\"}, {captureRect:[110, 261, 180, 291], command:@\"Click\", eventNum:28, hotSpot:[1.4509275800000000e+002, 4.9193511999999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0012\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0028.png\"}, {captureRect:[206, 179, 276, 209], command:@\"Click\", eventNum:30, hotSpot:[2.4112536600000001e+002, 5.7392431599999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0013\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141209_160230.726/Screen0030.png\"}]";
+    generatedCommands = (
+	"Click \"image0001\"",
+	"DoubleClick \"image0002\"",
+	"Click \"image0003\"",
+	"Click \"image0004\"",
+	"Click \"image0005\"",
+	"Click \"image0006\"",
+	"Click \"image0007\"",
+	"Click \"image0008\"",
+	"Click \"image0009\"",
+	"Click \"Manualfill\"",
+	"Click \"image0010\"",
+	"Click \"image0011\"",
+	"Click \"image0012\"",
+	"Click \"image0013\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0001.png",
+	    "image0002.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "image0006.png",
+	    "image0007.png",
+	    "image0008.png",
+	    "image0009.png",
+	    "Manualfill.png",
+	    "image0010.png",
+	    "image0011.png",
+	    "image0012.png",
+	    "image0013.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "image0006.png",
+	    "image0007.png",
+	    "image0008.png",
+	    "image0009.png",
+	    "Manualfill.png",
+	    "image0010.png",
+	    "image0011.png",
+	    "image0012.png",
+	    "image0013.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

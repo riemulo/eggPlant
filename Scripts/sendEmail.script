@@ -1,0 +1,42 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-22 16:57:28
+  From session:  t
+  Captured on:  2014-12-22 16:56:14
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+--Send email the specific logfile
+--sendMail (To: "seniselam21@gmail.com, selamawit.demewoz@albumprinter.com",\
+--		Subject: "Test result",\
+--		body: "Result of the test.",\
+--		attachment: "C:\Users\sdemewoz\Desktop\eggPlant V1.5.suite\Results\StartEditor\20141217_171705.066\LogFile.txt")
+
+-- Send email by setting the logfile
+-- Runwithnewresults command runs a given script, generating a separate Log file for it.
+
+Runwithnewresults "StartApp_Mac"
+
+put the result into Outcome
+
+--put the name of me into title
+
+if the status of Outcome is not "Success"
+	
+	put Outcome's Logfile into screenError
+	
+	replace "Logfile.txt" with "Screen_Error.tiff" in screenError
+	
+	sendMail (To: "seniselam21@gmail.com, selamawit.demewoz@albumprinter.com",\
+	Subject: "Error Result Mac",\
+			body: "Result of the test.",\
+			attachment: ( screenError, Outcome's Logfile))
+		else
+	sendMail (To: "seniselam21@gmail.com, selamawit.demewoz@albumprinter.com",\
+	Subject: "Result Mac",\
+			body: "Result of the test.",\
+			attachment: Outcome's Logfile)
+		end if
+
+
+
+

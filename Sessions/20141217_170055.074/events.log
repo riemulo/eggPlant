@@ -1,0 +1,30 @@
+1	0.002	start	
+2	2.921	mouseDown	{button:1, clickCount:1, hotSpot:[586.634033, 25.263184]}
+3	3.401	mouseUp	{button:1, clickCount:1, hotSpot:[586.634033, 25.263184]}
+4	3.537	mouseDown	{button:1, clickCount:1, hotSpot:[586.634033, 25.263184]}
+5	3.641	mouseUp	{button:1, clickCount:1, hotSpot:[586.634033, 25.263184]}
+6	10.504	mouseDown	{button:1, clickCount:1, hotSpot:[31.314981, 67.705261]}
+7	10.713	mouseUp	{button:1, clickCount:1, hotSpot:[31.314981, 66.694763]}
+8	13.101	mouseDown	{button:1, clickCount:1, hotSpot:[126.303764, 240.505249]}
+9	13.25	mouseUp	{button:1, clickCount:1, hotSpot:[126.303764, 240.505249]}
+10	14.103	mouseDown	{button:1, clickCount:1, hotSpot:[126.303764, 240.505249]}
+11	14.235	mouseUp	{button:1, clickCount:1, hotSpot:[126.303764, 240.505249]}
+12	14.918	mouseDown	{button:1, clickCount:1, hotSpot:[126.303764, 240.505249]}
+13	15.03	mouseUp	{button:1, clickCount:1, hotSpot:[126.303764, 240.505249]}
+14	19.928	mouseDown	{button:1, clickCount:1, hotSpot:[224.424042, 266.778961]}
+15	20.104	mouseUp	{button:1, clickCount:1, hotSpot:[224.424042, 266.778961]}
+16	21.44	mouseDown	{button:1, clickCount:1, hotSpot:[650.3078, 480]}
+17	21.604	mouseUp	{button:1, clickCount:1, hotSpot:[650.3078, 480]}
+18	22.701	mouseDown	{button:1, clickCount:1, hotSpot:[806.882751, 623.494751]}
+19	22.846	mouseUp	{button:1, clickCount:1, hotSpot:[806.882751, 623.494751]}
+20	25.007	mouseDown	{button:1, clickCount:1, hotSpot:[631.518799, 566.905273]}
+21	25.119	mouseUp	{button:1, clickCount:1, hotSpot:[631.518799, 566.905273]}
+22	28.439	mouseDown	{button:1, clickCount:1, hotSpot:[150.31192, 32.336853]}
+23	28.569	mouseUp	{button:1, clickCount:1, hotSpot:[150.31192, 32.336853]}
+24	29.511	mouseDown	{button:1, clickCount:1, hotSpot:[206.678894, 31.326355]}
+25	29.627	mouseUp	{button:1, clickCount:1, hotSpot:[206.678894, 31.326355]}
+26	30.5	mouseDown	{button:1, clickCount:1, hotSpot:[276.615692, 34.35791]}
+27	30.614	mouseUp	{button:1, clickCount:1, hotSpot:[276.615692, 34.35791]}
+28	31.513	mouseDown	{button:1, clickCount:1, hotSpot:[319.412842, 33.347412]}
+29	31.6	mouseUp	{button:1, clickCount:1, hotSpot:[319.412842, 33.347412]}
+30	33.326	end	

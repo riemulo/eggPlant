@@ -1,0 +1,10 @@
+﻿2014-12-17 16:35:32.345 +0100	START		Running Waiting.script
+2014-12-17 16:35:33.148 +0100	click	image0003	at (432, 38)	8	on_waiting	Waiting.script
+2014-12-17 16:35:33.956 +0100	doubleclick	image0030	at (432, 38)	9	on_waiting	Waiting.script
+2014-12-17 16:35:39.403 +0100	click	image0031	at (29, 75)	11	on_waiting	Waiting.script
+2014-12-17 16:35:40.694 +0100	click	image0032	at (148, 266)	13	on_waiting	Waiting.script
+2014-12-17 16:35:41.792 +0100	click	image0033	at (148, 266)	15	on_waiting	Waiting.script
+2014-12-17 16:35:42.629 +0100	click	image0034	at (145, 255)	16	on_waiting	Waiting.script
+2014-12-17 16:36:15.511 +0100	Exception	Nothanks	No Image Found On Screen: "Nothanks"	17	on_waiting	Waiting.script
+2014-12-17 16:36:15.554 +0100	EndTestCase		(Duration:"43.206", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 16:35:32 +0100", Successes:"0", TestCase:"Waiting.script", Warnings:"0")
+2014-12-17 16:36:15.556 +0100	ABORTED		Execution Time 0:00:43 Waiting.script

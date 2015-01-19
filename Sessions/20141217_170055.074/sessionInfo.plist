@@ -1,0 +1,52 @@
+{
+    commandList = "[{captureRect:[561, 713, 613, 759], command:@\"Click\", eventNum:2, hotSpot:[5.8663403300000004e+002, 2.5263183999999999e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Albelli_UK\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0002.png\"}, {captureRect:[551, 713, 621, 757], command:@\"Click\", eventNum:4, hotSpot:[5.8663403300000004e+002, 2.5263183999999999e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0036\", searchType:@\"Tolerant\", waitFor:@\"2\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0003.png\"}, {captureRect:[16, 684, 56, 715], command:@\"Click\", eventNum:6, hotSpot:[3.1314981000000000e+001, 6.7705260999999993e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"New_product\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0006.png\"}, {captureRect:[62, 392, 274, 552], command:@\"Click\", eventNum:8, hotSpot:[1.2630376400000000e+002, 2.4050524899999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Photobooks_Uk\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0008.png\"}, {captureRect:[103, 410, 228, 534], command:@\"Click\", eventNum:10, hotSpot:[1.2630376400000000e+002, 2.4050524899999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0037\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0010.png\"}, {captureRect:[22, 596, 170, 613], command:@\"Click\", eventNum:12, hotSpot:[1.2630376400000000e+002, 2.4050524899999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Square_XL_UK\", searchType:@\"Text\", waitFor:@\"5\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0012.png\"}, {captureRect:[187, 430, 276, 455], command:@\"Click\", eventNum:14, hotSpot:[2.2442404199999999e+002, 2.6677896099999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"PhotoCover_UK\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0014.png\"}, {captureRect:[528, 215, 828, 362], command:@\"Click\", eventNum:16, hotSpot:[6.5030780000000004e+002, 480], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"No_Layflat\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0016.png\"}, {captureRect:[774, 121, 871, 158], command:@\"Click\", eventNum:18, hotSpot:[8.0688275099999998e+002, 6.2349475099999995e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"OK_books\", searchType:@\"Tolerant\", waitFor:@\"5\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0018.png\"}, {captureRect:[600, 186, 670, 216], command:@\"Click\", eventNum:20, hotSpot:[6.3151879899999994e+002, 5.6690527299999997e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Manualfill\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0020.png\"}, {captureRect:[129, 723, 185, 744], command:@\"Click\", eventNum:22, hotSpot:[1.5031191999999999e+002, 3.2336852999999998e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Design\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0022.png\"}, {captureRect:[171, 721, 241, 751], command:@\"Click\", eventNum:24, hotSpot:[2.0667889400000001e+002, 3.1326355000000000e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"InsertTab\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0024.png\"}, {captureRect:[254, 721, 300, 743], command:@\"Click\", eventNum:26, hotSpot:[2.7661569200000002e+002, 3.4357909999999997e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"PageTab\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0026.png\"}, {captureRect:[309, 723, 368, 742], command:@\"Click\", eventNum:28, hotSpot:[3.1941284200000001e+002, 3.3347411999999998e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"OptionsTab\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_170055.074/Screen0028.png\"}]";
+    generatedCommands = (
+	"Click \"Albelli_UK\"",
+	"Click (Image:\"image0036\", WaitFor:2)",
+	"Click \"New_product\"",
+	"Click \"Photobooks_Uk\"",
+	"Click \"image0037\"",
+	"Click (Image:\"Square_XL_UK\", WaitFor:5)",
+	"Click \"PhotoCover_UK\"",
+	"Click \"No_Layflat\"",
+	"Click (Image:\"OK_books\", WaitFor:5)",
+	"Click \"Manualfill\"",
+	"Click \"Design\"",
+	"Click \"InsertTab\"",
+	"Click \"PageTab\"",
+	"Click \"OptionsTab\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Albelli_UK.png",
+	    "image0036.png",
+	    "New_product.png",
+	    "Photobooks_Uk.png",
+	    "image0037.png",
+	    "Square_XL_UK.png",
+	    "PhotoCover_UK.png",
+	    "No_Layflat.png",
+	    "OK_books.png",
+	    "Manualfill.png",
+	    "Design.png",
+	    "InsertTab.png",
+	    "PageTab.png",
+	    "OptionsTab.png",
+	    "Albelli_UK.png",
+	    "image0036.png",
+	    "New_product.png",
+	    "Photobooks_Uk.png",
+	    "image0037.png",
+	    "Square_XL_UK.png",
+	    "PhotoCover_UK.png",
+	    "No_Layflat.png",
+	    "OK_books.png",
+	    "Manualfill.png",
+	    "Design.png",
+	    "InsertTab.png",
+	    "PageTab.png",
+	    "OptionsTab.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

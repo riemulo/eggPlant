@@ -1,0 +1,4 @@
+﻿2015-01-09 14:14:28.080 +0100	START		Running sendEmail.script
+2015-01-09 14:14:28.136 +0100	Exception		Unable to locate script named: 	17	on_sendemail	sendEmail.script
+2015-01-09 14:14:28.161 +0100	EndTestCase		(Duration:"0.077", Errors:"1", Exceptions:"1", StartTime:"2015-01-09 14:14:28 +0100", Successes:"0", TestCase:"sendEmail.script", Warnings:"0")
+2015-01-09 14:14:30.140 +0100	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named:  -- Execution Time 0:00:00 sendEmail.script

@@ -1,0 +1,17 @@
+﻿2014-12-22 17:21:46.248 +0100	START		Running keyDown.script
+2014-12-22 17:21:46.365 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:47.147 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:47.930 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:48.712 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:49.495 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:50.277 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:51.060 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:51.842 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:52.624 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:53.407 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:54.189 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:54.972 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:55.754 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:56.536 +0100	click	image0011	at (41, 386)	7	on_keydown	keyDown.script
+2014-12-22 17:21:57.341 +0100	EndTestCase		(Duration:"11.091", Errors:"1", Exceptions:"0", StartTime:"2014-12-22 17:21:46 +0100", Successes:"0", TestCase:"keyDown.script", Warnings:"0")
+2014-12-22 17:21:57.343 +0100	ABORTED		Execution Time 0:00:11 keyDown.script

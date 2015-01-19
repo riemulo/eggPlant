@@ -1,0 +1,9 @@
+﻿2015-01-15 11:56:40.431 +0100	START		Running StartEditor.script
+2015-01-15 11:56:40.527 +0100	BeginTestCase		startEditor	7	on_starteditor	StartEditor.script
+2015-01-15 11:56:41.332 +0100	doubleclick	Albelli_UK	at (586, 32)	8	on_starteditor	StartEditor.script
+2015-01-15 11:56:45.956 +0100	click	New_product	at (31, 67)	10	on_starteditor	StartEditor.script
+2015-01-15 11:56:46.909 +0100	click	Photobooks_Uk	at (126, 240)	11	on_starteditor	StartEditor.script
+2015-01-15 11:56:46.912 +0100	Exception	SquarePhotoBooks	Could Not Open Image: SquarePhotoBooks	12	on_starteditor	StartEditor.script
+2015-01-15 11:56:46.941 +0100	EndTestCase		(Duration:"6.413", Errors:"1", Exceptions:"1", StartTime:"2015-01-15 11:56:40 +0100", Successes:"0", TestCase:"startEditor", Warnings:"0")
+2015-01-15 11:56:46.944 +0100	EndTestCase		(Duration:"6.509", Errors:"1", Exceptions:"1", StartTime:"2015-01-15 11:56:40 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2015-01-15 11:56:47.317 +0100	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: SquarePhotoBooks -- Execution Time 0:00:06 StartEditor.script

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Close_editor">
+ <run>
+  <RunDate>2014-12-23 11:44:45.356 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>2.364000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141223_114445.356/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

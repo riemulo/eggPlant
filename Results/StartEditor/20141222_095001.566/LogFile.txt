@@ -1,0 +1,6 @@
+﻿2014-12-22 09:50:01.568 +0100	START		Running StartEditor.script
+2014-12-22 09:50:02.213 +0100	doubleclick	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-22 09:50:05.592 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-22 09:50:45.757 +0100	Exception	Photobooks_Uk	No Image Found On Screen: "Photobooks_Uk"	10	on_starteditor	StartEditor.script
+2014-12-22 09:50:45.792 +0100	EndTestCase		(Duration:"44.222", Errors:"1", Exceptions:"1", StartTime:"2014-12-22 09:50:01 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-22 09:50:46.071 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Photobooks_Uk" -- Execution Time 0:00:44 StartEditor.script

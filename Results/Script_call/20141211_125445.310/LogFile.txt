@@ -1,0 +1,10 @@
+﻿2014-12-11 12:54:45.312 +0100	START		Running Script_call.table
+2014-12-11 12:54:46.089 +0100	click	image0003	at (432, 38)	8	on_waiting	Waiting.script
+2014-12-11 12:54:46.896 +0100	doubleclick	image0030	at (432, 38)	9	on_waiting	Waiting.script
+2014-12-11 12:54:52.338 +0100	click	image0031	at (29, 75)	11	on_waiting	Waiting.script
+2014-12-11 12:54:53.624 +0100	click	image0032	at (148, 266)	13	on_waiting	Waiting.script
+2014-12-11 12:54:54.706 +0100	click	image0033	at (148, 266)	15	on_waiting	Waiting.script
+2014-12-11 12:54:55.538 +0100	click	image0034	at (145, 255)	16	on_waiting	Waiting.script
+2014-12-11 12:54:57.703 +0100	Exception	Nothanks	No Image Found On Screen: "Nothanks"	17	on_waiting	Waiting.script
+2014-12-11 12:54:57.707 +0100	EndTestCase		(Duration:"12.386", Errors:"1", Exceptions:"1", StartTime:"2014-12-11 12:54:45 +0100", Successes:"0", TestCase:"Script_call.table", Warnings:"0")
+2014-12-11 12:54:57.870 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Nothanks" -- Execution Time 0:00:12 Script_call.table

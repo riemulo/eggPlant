@@ -1,0 +1,10 @@
+﻿2015-01-13 15:32:40.203 +0100	START		Running Agenda.script
+2015-01-13 15:32:40.251 +0100	imagefound	Albelli	found at (435, 24)	8	on_agenda	Agenda.script
+2015-01-13 15:32:41.015 +0100	doubleclick		at (435, 24)	8	on_agenda	Agenda.script
+2015-01-13 15:32:44.009 +0100	click	Newproduct	at (32, 72)	9	on_agenda	Agenda.script
+2015-01-13 15:32:45.177 +0100	click	Agenda's	at (434, 235)	10	on_agenda	Agenda.script
+2015-01-13 15:32:46.318 +0100	click	SchoolAgenda	at (838, 289)	11	on_agenda	Agenda.script
+2015-01-13 15:32:47.970 +0100	click	Ok_school	at (637, 550)	12	on_agenda	Agenda.script
+2015-01-13 15:35:01.947 +0100	Exception	InsertTab	No Image Found On Screen: "InsertTab"	15	on_agenda	Agenda.script
+2015-01-13 15:35:01.988 +0100	EndTestCase		(Duration:"141.783", Errors:"1", Exceptions:"1", StartTime:"2015-01-13 15:32:40 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2015-01-13 15:35:01.990 +0100	ABORTED		Execution Time 0:02:21 Agenda.script

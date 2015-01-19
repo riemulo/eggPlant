@@ -1,0 +1,10 @@
+﻿2014-12-19 10:22:35.033 +0100	START		Running Scrolling.script
+2014-12-19 10:22:35.965 +0100	click	FileTab	at (36, 35)	8	on_scrolling	Scrolling.script
+2014-12-19 10:22:36.929 +0100	click	Settings	at (60, 243)	9	on_scrolling	Scrolling.script
+2014-12-19 10:22:37.886 +0100	moveto	SettingWIndow	at (325, 181)	10	on_scrolling	Scrolling.script
+2014-12-19 10:22:38.585 +0100	scrollwheelup		moved 7	11	on_scrolling	Scrolling.script
+2014-12-19 10:22:39.717 +0100	moveto	SettingWindow2	at (791, 181)	12	on_scrolling	Scrolling.script
+2014-12-19 10:22:40.417 +0100	scrollwheelup		moved 7	13	on_scrolling	Scrolling.script
+2014-12-19 10:22:54.525 +0100	Exception	DownArrow	No Image Found On Screen: "DownArrow"	14	on_scrolling	Scrolling.script
+2014-12-19 10:22:54.554 +0100	EndTestCase		(Duration:"19.518", Errors:"1", Exceptions:"1", StartTime:"2014-12-19 10:22:35 +0100", Successes:"0", TestCase:"Scrolling.script", Warnings:"0")
+2014-12-19 10:22:54.555 +0100	ABORTED		Execution Time 0:00:19 Scrolling.script

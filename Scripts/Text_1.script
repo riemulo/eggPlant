@@ -1,0 +1,37 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-22 14:55:08
+  From session:  Text_1
+  Captured on:  2014-12-22 14:53:55
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "InsertPage"
+Click "image0003"
+Click "image0004"
+Click "image0005"
+DoubleClick "image0006"
+TypeText "Selam Zeray"
+log ReadText (("Selam Zeray"))
+
+Click "BR_Img"
+Click "image0008"
+
+Log ReadText ((183, 31, 121, 29))
+
+#Text rotation#
+Click (734, 401)-- "TL_img" --(734, 401)
+Click (876, 500) --"BR_Img" --(876, 600)
+
+Log ReadText (("TL_img", "BR_Img"), TextRotation:  counterclockwise)
+Log ReadText (("TL_img", "BR_Img"), TextRotation:  clockwise)
+Log ReadText (("TL_img", "BR_Img"), TextRotation:  upsidedown)
+Log ReadText (("TL_img", "BR_Img"), TextRotation:  none)
+
+Log ReadText ((734, 401, 876, 500), multiplines:true, ValidPattern: "S(a-z)t")
+
+--Type connection information
+put ConnectionInfo()
+
+
+
+

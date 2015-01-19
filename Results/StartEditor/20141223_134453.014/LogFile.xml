@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="StartEditor.script" package="eggPlant V1.5.suite" timestamp="2014-12-23 13:44:53.014 +0100"
+ tests="3" successes="1" errors="0" time="31.523000">
+  <properties>
+   <property name="RunDate" value="2014-12-23 13:44:53.014 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="startEditor" assertions="0" successes="0" errors="0" time="25.102">
+  </testcase>
+  <testcase name="scrolling" assertions="0" successes="0" errors="0" time="6.366">
+  </testcase>
+  <testcase name="StartEditor.script" assertions="1" successes="1" errors="0" time="31.52">
+  </testcase>
+ </testsuite>
+</testsuites>

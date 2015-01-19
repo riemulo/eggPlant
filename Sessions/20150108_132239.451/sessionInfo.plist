@@ -1,0 +1,46 @@
+{
+    commandList = "[{captureRect:[1631, 17, 1685, 60], command:@\"Click\", eventNum:2, hotSpot:[1.6431901860000000e+003, 1.0436771240000000e+003], imageName:@\"\", infoDict:{folderPath:@\"/Application/Application\", imageName:@\"Application\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0002.png\"}, {captureRect:[1216, 798, 1294, 877], command:@\"Click\", eventNum:4, hotSpot:[1.2544785159999999e+003, 2.6273547400000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/Albelli_UK\", imageName:@\"Albelli_UK\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0004.png\"}, {captureRect:[462, 233, 589, 253], command:@\"Click\", eventNum:6, hotSpot:[5.6775463900000000e+002, 8.3300451699999996e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"BeginNewProduct\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0006.png\"}, {captureRect:[485, 701, 704, 868], command:@\"Click\", eventNum:8, hotSpot:[5.9602453600000001e+002, 3.1964129600000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Alb_UK\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0008.png\"}, {captureRect:[561, 745, 631, 775], command:@\"Click\", eventNum:10, hotSpot:[5.9602453600000001e+002, 3.1964129600000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0010.png\"}, {captureRect:[561, 745, 631, 775], command:@\"Click\", eventNum:12, hotSpot:[5.9602453600000001e+002, 3.1964129600000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0012.png\"}, {captureRect:[695, 793, 765, 823], command:@\"Click\", eventNum:14, hotSpot:[7.3030676300000005e+002, 2.7121081500000003e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0014.png\"}, {captureRect:[732, 782, 823, 799], command:@\"Click\", eventNum:16, hotSpot:[7.1852764900000000e+002, 2.9421527099999997e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"RegularCover_0001\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0016.png\"}, {captureRect:[732, 572, 782, 589], command:@\"Click\", eventNum:18, hotSpot:[7.2088348399999995e+002, 4.9762335200000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Regular\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0018.png\"}, {captureRect:[690, 491, 760, 521], command:@\"Click\", eventNum:20, hotSpot:[7.2559509300000002e+002, 5.7390136700000005e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150108_132239.451/Screen0020.png\"}]";
+    generatedCommands = (
+	"Click \"Application/Application/Application\"",
+	"Click \"Albelli_UK/Albelli_UK\"",
+	"Click \"BeginNewProduct\"",
+	"Click \"Alb_UK\"",
+	"Click \"image0002\"",
+	"Click \"image0001\"",
+	"Click \"image0003\"",
+	"Click \"RegularCover_0001\"",
+	"Click \"Regular\"",
+	"Click \"image0004\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "BeginNewProduct.png",
+	    "image0002.png",
+	    "Alb_UK.png",
+	    "image0001.png",
+	    "image0003.png",
+	    "RegularCover_0001.png",
+	    "Regular.png",
+	    "image0004.png",
+	    "BeginNewProduct.png",
+	    "Alb_UK.png",
+	    "image0002.png",
+	    "image0001.png",
+	    "image0003.png",
+	    "RegularCover_0001.png",
+	    "Regular.png",
+	    "image0004.png"
+	);
+	"Albelli_UK" = (
+	    "Albelli_UK.png",
+	    "Albelli_UK.png"
+	);
+	Application = (
+	);
+	"Application/Application" = (
+	    "Application.png",
+	    "Application.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

@@ -1,0 +1,11 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-23 11:44:14
+  From session:  Close_editor
+  Captured on:  2014-12-23 11:41:32
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+BeginTestCase "Close_app"
+Click "bn_close"
+Click (image:"bn_DontSave", waitFor:10)
+EndTestCase "Close_app"

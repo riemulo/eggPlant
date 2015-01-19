@@ -1,0 +1,7 @@
+﻿2014-12-09 16:30:34.750 +0100	START		Running Moving pics.script
+2014-12-09 16:30:35.529 +0100	click	image0014	at (254, 366)	8	on_moving_pics	Moving pics.script
+2014-12-09 16:30:36.229 +0100	keydown		[shiftKey]	9	on_moving_pics	Moving pics.script
+2014-12-09 16:30:36.960 +0100	moveto	image0016	at (251, 376)	10	on_moving_pics	Moving pics.script
+2014-12-09 16:31:58.127 +0100	moveto	image0015	at (768, 350)	11	on_moving_pics	Moving pics.script
+2014-12-09 16:33:01.738 +0100	EndTestCase		(Duration:"146.985", Errors:"1", Exceptions:"0", StartTime:"2014-12-09 16:30:34 +0100", Successes:"0", TestCase:"Moving pics.script", Warnings:"0")
+2014-12-09 16:33:01.739 +0100	ABORTED		Execution Time 0:02:27 Moving pics.script

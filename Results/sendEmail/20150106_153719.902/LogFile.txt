@@ -1,0 +1,5 @@
+﻿2015-01-06 15:37:19.904 +0100	START		Running t.script
+2015-01-06 15:37:19.942 +0100	LogWarning		File Logfile Doesn't exist for Email Attachment	7	on_t	t.script
+2015-01-06 15:37:22.620 +0100	sendmail		Email Sent To: seniselam21@gmail.com	7	on_t	t.script
+2015-01-06 15:37:22.648 +0100	EndTestCase		(Duration:"2.742", Errors:"0", Exceptions:"0", StartTime:"2015-01-06 15:37:19 +0100", Successes:"1", TestCase:"t.script", Warnings:"1")
+2015-01-06 15:37:22.725 +0100	SUCCESS		Execution Time 0:00:03 t.script

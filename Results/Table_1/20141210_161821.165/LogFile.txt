@@ -1,0 +1,4 @@
+﻿2014-12-10 16:18:21.167 +0100	START		Running Table_1.table
+2014-12-10 16:18:21.169 +0100	Exception		Remote Connection Unavailable
+2014-12-10 16:18:21.566 +0100	EndTestCase		(Duration:"0.37", Errors:"1", Exceptions:"1", StartTime:"2014-12-10 16:18:21 +0100", Successes:"0", TestCase:"Table_1.table", Warnings:"0")
+2014-12-10 16:18:21.631 +0100	FAILURE		Connection Failed Unable to connect to Server:10.41.10.53 on port:5900\nARD/Screen Sharing is not configured.\nPlease use System Preferences->Sharing to configure it so that VNC viewers may control the screen -- Execution Time 0:00:00 Table_1.table

@@ -1,0 +1,3 @@
+﻿2015-01-09 14:56:40.541 +0100	START		Running Add cover&pics.script	17	on_sendemail	sendEmail.script
+2015-01-09 14:56:48.670 +0100	EndTestCase		(Duration:"8.124", Errors:"1", Exceptions:"0", StartTime:"2015-01-09 14:56:40 +0100", Successes:"0", TestCase:"Add cover&pics.script", Warnings:"0")	17	on_sendemail	sendEmail.script
+2015-01-09 14:56:48.673 +0100	ABORTED		Execution Time 0:00:08 Add cover&pics.script	17	on_sendemail	sendEmail.script

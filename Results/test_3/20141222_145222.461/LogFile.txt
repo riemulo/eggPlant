@@ -1,0 +1,7 @@
+﻿2014-12-22 14:52:22.463 +0100	START		Running Text.script
+2014-12-22 14:52:23.340 +0100	click	PortraitM15x20on	at (304, 724)	8	on_text	Text.script
+2014-12-22 14:52:24.291 +0100	click	cover	at (427, 724)	9	on_text	Text.script
+2014-12-22 14:52:25.699 +0100	click	image0001	at (471, 16)	10	on_text	Text.script
+2014-12-22 14:52:26.549 +0100	click	image0002	at (558, 16)	11	on_text	Text.script
+2014-12-22 14:52:26.602 +0100	EndTestCase		(Duration:"4.137", Errors:"0", Exceptions:"0", StartTime:"2014-12-22 14:52:22 +0100", Successes:"1", TestCase:"Text.script", Warnings:"0")
+2014-12-22 14:52:26.684 +0100	SUCCESS		Execution Time 0:00:04 Text.script

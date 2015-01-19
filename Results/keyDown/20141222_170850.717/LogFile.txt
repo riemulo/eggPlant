@@ -1,0 +1,26 @@
+﻿2014-12-22 17:08:50.718 +0100	START		Running keyDown.script
+2014-12-22 17:08:51.642 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:52.425 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:53.208 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:53.990 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:54.773 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:55.555 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:56.337 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:57.120 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:57.902 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:58.685 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:08:59.467 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:00.249 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:01.032 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:01.814 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:02.597 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:03.379 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:04.161 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:04.944 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:05.726 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:06.509 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:07.291 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:08.073 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:08.855 +0100	click	image0011	at (41, 386)	8	on_keydown	keyDown.script
+2014-12-22 17:09:09.713 +0100	EndTestCase		(Duration:"18.993", Errors:"1", Exceptions:"0", StartTime:"2014-12-22 17:08:50 +0100", Successes:"0", TestCase:"keyDown.script", Warnings:"0")
+2014-12-22 17:09:09.715 +0100	ABORTED		Execution Time 0:00:19 keyDown.script

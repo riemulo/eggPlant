@@ -1,0 +1,12 @@
+﻿2015-01-16 10:10:00.769 +0100	START		Running StartApp_Mac.script	17	on_sendemail	sendEmail.script
+2015-01-16 10:10:01.732 +0100	click	Application/Application	at (1643, 1043)	10	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:04.033 +0100	click	Mac_UK	at (1256, 242)	11	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:08.952 +0100	click	BeginNewProduct	at (524, 834)	13	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:10.749 +0100	click	Alb_UK	at (596, 319)	14	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:12.557 +0100	click	Square_UK	at (600, 256)	15	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:13.971 +0100	click	Sq_XL_Mac	at (600, 256)	16	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:16.429 +0100	click	NoCover_UK	at (929, 261)	17	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:17.489 +0100	click	NoLayflat_UK_Mac	at (890, 494)	18	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:19.261 +0100	click	Ok_extra_Mac	at (889, 571)	19	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:10:19.264 +0100	EndTestCase		(Duration:"18.493", Errors:"0", Exceptions:"0", StartTime:"2015-01-16 10:10:00 +0100", Successes:"1", TestCase:"StartApp_Mac.script", Warnings:"0")	17	on_sendemail	sendEmail.script
+2015-01-16 10:10:19.335 +0100	SUCCESS		Execution Time 0:00:19 StartApp_Mac.script	17	on_sendemail	sendEmail.script

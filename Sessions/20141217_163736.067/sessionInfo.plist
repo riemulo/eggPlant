@@ -1,0 +1,63 @@
+{
+    commandList = "[{captureRect:[403, 713, 454, 758], command:@\"Click\", eventNum:2, hotSpot:[4.3527825899999999e+002, 2.4252624999999998e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Albelli\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0002.png\"}, {captureRect:[401, 714, 458, 761], command:@\"DoubleClick\", eventNum:4, hotSpot:[4.3214675899999997e+002, 2.5263183999999999e+001], imageName:@\"\", infoDict:{folderPath:@\"/Albelli\", imageName:@\"Albelli_selected\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0004.png\"}, {captureRect:[16, 681, 56, 716], command:@\"Click\", eventNum:8, hotSpot:[3.3402648999999997e+001, 7.2757935000000003e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Newproduct\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0008.png\"}, {captureRect:[362, 385, 632, 553], command:@\"Click\", eventNum:10, hotSpot:[4.3423443600000002e+002, 2.3545263700000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Agenda's\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0010.png\"}, {captureRect:[763, 391, 969, 544], command:@\"Click\", eventNum:12, hotSpot:[8.3819769299999996e+002, 2.8901052900000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SchoolAgenda\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0012.png\"}, {captureRect:[557, 206, 653, 234], command:@\"Click\", eventNum:14, hotSpot:[6.0751068099999998e+002, 5.4669476299999997e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Ok_school\", searchType:@\"Tolerant\", waitFor:@\"20\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0014.png\"}, {captureRect:[112, 680, 147, 716], command:@\"Click\", eventNum:16, hotSpot:[1.2630376400000000e+002, 7.3768433000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Save_disabled\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0016.png\"}, {captureRect:[223, 683, 260, 713], command:@\"Click\", eventNum:18, hotSpot:[2.4321304300000000e+002, 7.8821044999999998e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"ProductExtra_disabled\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0018.png\"}, {captureRect:[312, 680, 351, 716], command:@\"Click\", eventNum:20, hotSpot:[3.3402648900000003e+002, 7.5789490000000001e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"ChageSize_disabled\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0020.png\"}, {captureRect:[127, 723, 186, 743], command:@\"Click\", eventNum:22, hotSpot:[1.5135574299999999e+002, 3.5368408000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"DesignTab\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0022.png\"}, {captureRect:[195, 720, 237, 744], command:@\"Click\", eventNum:24, hotSpot:[2.0250355500000001e+002, 3.5368408000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"InsertTab\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0024.png\"}, {captureRect:[14, 680, 53, 714], command:@\"Click\", eventNum:26, hotSpot:[3.1314981000000000e+001, 7.3768433000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"AddText_disabled\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0026.png\"}, {captureRect:[56, 679, 96, 715], command:@\"Click\", eventNum:28, hotSpot:[7.0980628999999993e+001, 6.4673705999999996e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"AddNewImage_disabled\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0028.png\"}, {captureRect:[122, 683, 159, 714], command:@\"Click\", eventNum:30, hotSpot:[1.4091741900000000e+002, 7.3768433000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"AddImage_disabled\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0030.png\"}, {captureRect:[188, 684, 227, 712], command:@\"Click\", eventNum:32, hotSpot:[2.1502955600000001e+002, 7.3768433000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SpreadImages_disabled\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0032.png\"}, {captureRect:[606, 681, 643, 715], command:@\"Click\", eventNum:34, hotSpot:[6.1899285899999995e+002, 6.6694762999999995e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Border_disabled\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0034.png\"}, {captureRect:[651, 682, 683, 711], command:@\"Click\", eventNum:36, hotSpot:[6.6700915499999996e+002, 7.5789490000000001e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Clipart_disabled\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141217_163736.067/Screen0036.png\"}]";
+    generatedCommands = (
+	"Click \"Albelli\"",
+	"DoubleClick \"Albelli/Albelli_selected\"",
+	"Click \"Newproduct\"",
+	"Click \"Agenda's\"",
+	"Click \"SchoolAgenda\"",
+	"Click (Image:\"Ok_school\", WaitFor:20)",
+	"Click \"Save_disabled\"",
+	"Click \"ProductExtra_disabled\"",
+	"Click \"ChageSize_disabled\"",
+	"Click \"DesignTab\"",
+	"Click \"InsertTab\"",
+	"Click \"AddText_disabled\"",
+	"Click \"AddNewImage_disabled\"",
+	"Click \"AddImage_disabled\"",
+	"Click \"SpreadImages_disabled\"",
+	"Click \"Border_disabled\"",
+	"Click \"Clipart_disabled\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Albelli.png",
+	    "Newproduct.png",
+	    "Agenda's.png",
+	    "SchoolAgenda.png",
+	    "Ok_school.png",
+	    "Save_disabled.png",
+	    "ProductExtra_disabled.png",
+	    "ChageSize_disabled.png",
+	    "DesignTab.png",
+	    "InsertTab.png",
+	    "AddText_disabled.png",
+	    "AddImage_disabled.png",
+	    "AddNewImage_disabled.png",
+	    "SpreadImages_disabled.png",
+	    "Border_disabled.png",
+	    "Clipart_disabled.png",
+	    "Albelli.png",
+	    "Newproduct.png",
+	    "Agenda's.png",
+	    "SchoolAgenda.png",
+	    "Ok_school.png",
+	    "Save_disabled.png",
+	    "ProductExtra_disabled.png",
+	    "ChageSize_disabled.png",
+	    "DesignTab.png",
+	    "InsertTab.png",
+	    "AddText_disabled.png",
+	    "AddNewImage_disabled.png",
+	    "AddImage_disabled.png",
+	    "SpreadImages_disabled.png",
+	    "Border_disabled.png",
+	    "Clipart_disabled.png"
+	);
+	Albelli = (
+	    "Albelli_selected.png",
+	    "Albelli_selected.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

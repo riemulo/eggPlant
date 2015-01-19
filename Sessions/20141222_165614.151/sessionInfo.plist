@@ -1,0 +1,25 @@
+{
+    commandList = "[{captureRect:[543, 722, 613, 752], command:@\"DoubleClick\", eventNum:2, hotSpot:[5.7828338599999995e+002, 3.0315795999999999e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0009\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_165614.151/Screen0002.png\"}, {captureRect:[473, 753, 607, 768], command:@\"Click\", eventNum:6, hotSpot:[5.3131091300000003e+002, 1.2126343000000000e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"AlbelliPhotobooks\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_165614.151/Screen0006.png\"}, {captureRect:[447, 738, 517, 768], command:@\"Click\", eventNum:8, hotSpot:[4.8225073200000003e+002, 1.4147399999999999e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0010\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_165614.151/Screen0008.png\"}, {captureRect:[79, 556, 256, 577], command:@\"Click\", eventNum:10, hotSpot:[2.6826501500000001e+002, 2.0109472700000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Continueworkingon\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_165614.151/Screen0010.png\"}, {captureRect:[79, 556, 256, 577], command:@\"Click\", eventNum:12, hotSpot:[8.1418953000000002e+001, 2.0816845699999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Continueworkingon_0001\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141222_165614.151/Screen0012.png\"}]";
+    generatedCommands = (
+	"DoubleClick \"image0009\"",
+	"Click \"AlbelliPhotobooks\"",
+	"Click \"image0010\"",
+	"Click \"Continueworkingon\"",
+	"Click \"Continueworkingon_0001\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0009.png",
+	    "AlbelliPhotobooks.png",
+	    "image0010.png",
+	    "Continueworkingon.png",
+	    "Continueworkingon_0001.png",
+	    "image0009.png",
+	    "AlbelliPhotobooks.png",
+	    "image0010.png",
+	    "Continueworkingon.png",
+	    "Continueworkingon_0001.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

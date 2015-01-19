@@ -1,0 +1,4 @@
+﻿2015-01-08 11:28:41.877 +0100	START		Running StartApp_Mac.script
+2015-01-08 11:28:57.255 +0100	Exception	Application	No Image Found On Screen: "Application"	8	on_startapp_mac	StartApp_Mac.script
+2015-01-08 11:28:57.293 +0100	EndTestCase		(Duration:"15.412", Errors:"1", Exceptions:"1", StartTime:"2015-01-08 11:28:41 +0100", Successes:"0", TestCase:"StartApp_Mac.script", Warnings:"0")
+2015-01-08 11:28:57.294 +0100	ABORTED		Execution Time 0:00:16 StartApp_Mac.script

@@ -1,0 +1,17 @@
+{
+    commandList = "[{captureRect:[595, 377, 665, 407], command:@\"Click\", eventNum:2, hotSpot:[630, 376], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SettingWIndow\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102343.531/Screen0002.png\"}, {captureRect:[609, 352, 679, 382], command:@\"MoveTo\", eventNum:4, hotSpot:[644, 401], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"SettingWIndow\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102343.531/Screen0004.png\"}, {command:@\"ScrollWheelDown\", eventNum:5, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102343.531/Screen0004.png\", text:@\"13.0\"}]";
+    generatedCommands = (
+	"Click \"SettingWIndow\"",
+	"MoveTo \"SettingWIndow\"",
+	"ScrollWheelDown 13.0"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "SettingWIndow.png",
+	    "SettingWIndow.png",
+	    "SettingWIndow.png",
+	    "SettingWIndow.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

@@ -1,0 +1,5 @@
+﻿2014-12-23 11:44:45.358 +0100	START		Running Close_editor.script
+2014-12-23 11:44:46.256 +0100	click	bn_close	at (991, 9)	8	on_close_editor	Close_editor.script
+2014-12-23 11:44:47.717 +0100	click	bn_DontSave	at (575, 377)	9	on_close_editor	Close_editor.script
+2014-12-23 11:44:47.721 +0100	EndTestCase		(Duration:"2.361", Errors:"0", Exceptions:"0", StartTime:"2014-12-23 11:44:45 +0100", Successes:"1", TestCase:"Close_editor.script", Warnings:"0")
+2014-12-23 11:44:47.812 +0100	SUCCESS		Execution Time 0:00:02 Close_editor.script

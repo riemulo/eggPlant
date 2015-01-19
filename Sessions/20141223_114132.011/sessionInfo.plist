@@ -1,0 +1,16 @@
+{
+    commandList = "[{captureRect:[976, 751, 1021, 768], command:@\"Click\", eventNum:2, hotSpot:[991, 9], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"bn_close\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141223_114132.011/Screen0002.png\"}, {captureRect:[536, 376, 605, 399], command:@\"Click\", eventNum:4, hotSpot:[575, 377], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"bn_DontSave\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141223_114132.011/Screen0004.png\"}]";
+    generatedCommands = (
+	"Click \"bn_close\"",
+	"Click \"bn_DontSave\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "bn_close.png",
+	    "bn_DontSave.png",
+	    "bn_close.png",
+	    "bn_DontSave.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

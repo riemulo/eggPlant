@@ -1,0 +1,40 @@
+{
+    commandList = "[{captureRect:[1526, 16, 1572, 51], command:@\"Click\", eventNum:2, hotSpot:[1.5517016599999999e+003, 1.0452360839999999e+003], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Application\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0002.png\"}, {captureRect:[864, 755, 960, 850], command:@\"Click\", eventNum:4, hotSpot:[9.0631384300000002e+002, 2.7811157200000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Alb_UK\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0004.png\"}, {captureRect:[462, 232, 592, 250], command:@\"Click\", eventNum:6, hotSpot:[5.6687908900000002e+002, 8.4012872300000004e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"BeginNewProduct\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0006.png\"}, {captureRect:[486, 701, 700, 865], command:@\"Click\", eventNum:8, hotSpot:[6.0036077899999998e+002, 2.5841198700000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Uk_Mac\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0008.png\"}, {captureRect:[526, 719, 654, 846], command:@\"Click\", eventNum:10, hotSpot:[6.0036077899999998e+002, 2.5841198700000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Square_UK\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0010.png\"}, {captureRect:[433, 907, 572, 928], command:@\"Click\", eventNum:12, hotSpot:[6.0036077899999998e+002, 2.5841198700000001e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Sq_XL_Mac\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0012.png\"}, {captureRect:[812, 783, 924, 805], command:@\"Click\", eventNum:14, hotSpot:[8.6128680399999996e+002, 2.5957080100000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"NoCover_UK\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0014.png\"}, {captureRect:[830, 787, 921, 804], command:@\"Click\", eventNum:16, hotSpot:[8.2318695100000002e+002, 2.8622314499999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"RegularCover\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0016.png\"}, {captureRect:[810, 578, 889, 599], command:@\"Click\", eventNum:18, hotSpot:[8.2203241000000003e+002, 4.9364807100000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"NoLayflat_UK_Mac\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0018.png\"}, {captureRect:[754, 497, 856, 521], command:@\"Click\", eventNum:20, hotSpot:[8.2318695100000002e+002, 5.6317596400000002e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Ok_extra_Mac\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20150106_132832.867/Screen0020.png\"}]";
+    generatedCommands = (
+	"Click \"Application\"",
+	"Click \"Alb_UK\"",
+	"Click \"BeginNewProduct\"",
+	"Click \"Uk_Mac\"",
+	"Click \"Square_UK\"",
+	"Click \"Sq_XL_Mac\"",
+	"Click \"NoCover_UK\"",
+	"Click \"RegularCover\"",
+	"Click \"NoLayflat_UK_Mac\"",
+	"Click \"Ok_extra_Mac\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Application.png",
+	    "Alb_UK.png",
+	    "BeginNewProduct.png",
+	    "Uk_Mac.png",
+	    "Square_UK.png",
+	    "Sq_XL_Mac.png",
+	    "NoCover_UK.png",
+	    "RegularCover.png",
+	    "NoLayflat_UK_Mac.png",
+	    "Ok_extra_Mac.png",
+	    "Application.png",
+	    "Alb_UK.png",
+	    "BeginNewProduct.png",
+	    "Uk_Mac.png",
+	    "Square_UK.png",
+	    "Sq_XL_Mac.png",
+	    "NoCover_UK.png",
+	    "RegularCover.png",
+	    "NoLayflat_UK_Mac.png",
+	    "Ok_extra_Mac.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

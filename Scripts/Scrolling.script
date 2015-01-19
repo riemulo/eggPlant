@@ -1,0 +1,17 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-19 10:18:09
+  From session:  Scrolling
+  Captured on:  2014-12-19 10:11:35
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "FileTab"
+Click "Settings"
+MoveTo "SettingWIndow"
+ScrollWheelDown 13.0
+ScrollWheelUp 7.0
+MoveTo "SettingWindow2"
+--ScrollWheelUp 7.0
+--Click (Image:"DownArrow", WaitFor:2)
+--Click "DownArrow"
+Click "SaveAndReturn"

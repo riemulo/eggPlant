@@ -1,0 +1,247 @@
+1	0.00100002	start	
+2	3.898	mouseDown	{button:1, clickCount:1, hotSpot:[254, 366]}
+3	4.018	mouseUp	{button:1, clickCount:1, hotSpot:[254, 366]}
+4	5.472	flagsChanged	131072
+5	5.498	mouseMoved	{hotSpot:[251, 376]}
+6	5.972	flagsChanged	131072
+7	6.002	mouseDown	{button:1, clickCount:1, hotSpot:[251, 376]}
+8	6.116	flagsChanged	131072
+9	6.141	flagsChanged	131072
+10	6.175	flagsChanged	131072
+11	6.216	flagsChanged	131072
+12	6.239	flagsChanged	131072
+13	6.272	flagsChanged	131072
+14	6.305	flagsChanged	131072
+15	6.336	flagsChanged	131072
+16	6.368	flagsChanged	131072
+17	6.414	flagsChanged	131072
+18	6.44	flagsChanged	131072
+19	6.473	flagsChanged	131072
+20	6.503	flagsChanged	131072
+21	6.537	flagsChanged	131072
+22	6.567	flagsChanged	131072
+23	6.599	flagsChanged	131072
+24	6.633	flagsChanged	131072
+25	6.67	flagsChanged	131072
+26	6.703	flagsChanged	131072
+27	6.736	flagsChanged	131072
+28	6.767	flagsChanged	131072
+29	6.799	flagsChanged	131072
+30	6.833	flagsChanged	131072
+31	6.863	flagsChanged	131072
+32	6.896	flagsChanged	131072
+33	6.933	flagsChanged	131072
+34	6.967	flagsChanged	131072
+35	7.001	flagsChanged	131072
+36	7.031	flagsChanged	131072
+37	7.064	flagsChanged	131072
+38	7.097	flagsChanged	131072
+39	7.129	flagsChanged	131072
+40	7.16	flagsChanged	131072
+41	7.199	flagsChanged	131072
+42	7.232	flagsChanged	131072
+43	7.263	flagsChanged	131072
+44	7.295	flagsChanged	131072
+45	7.33	flagsChanged	131072
+46	7.359	flagsChanged	131072
+47	7.391	flagsChanged	131072
+48	7.427	flagsChanged	131072
+49	7.457	flagsChanged	131072
+50	7.494	flagsChanged	131072
+51	7.525	flagsChanged	131072
+52	7.558	flagsChanged	131072
+53	7.596	flagsChanged	131072
+54	7.626	flagsChanged	131072
+55	7.655	flagsChanged	131072
+56	7.688	flagsChanged	131072
+57	7.724	flagsChanged	131072
+58	7.759	flagsChanged	131072
+59	7.791	flagsChanged	131072
+60	7.823	flagsChanged	131072
+61	7.855	flagsChanged	131072
+62	7.887	flagsChanged	131072
+63	7.923	flagsChanged	131072
+64	7.952	flagsChanged	131072
+65	7.985	flagsChanged	131072
+66	8.023	flagsChanged	131072
+67	8.055	flagsChanged	131072
+68	8.084	flagsChanged	131072
+69	8.117	flagsChanged	131072
+70	8.15	flagsChanged	131072
+71	8.183	flagsChanged	131072
+72	8.216	flagsChanged	131072
+73	8.249	flagsChanged	131072
+74	8.282	flagsChanged	131072
+75	8.297	mouseUp	{button:1, clickCount:1, hotSpot:[770, 349]}
+76	8.396	flagsChanged	131072
+77	8.414	flagsChanged	131072
+78	8.447	flagsChanged	131072
+79	8.48	flagsChanged	131072
+80	8.513	flagsChanged	131072
+81	8.546	flagsChanged	131072
+82	8.579	flagsChanged	131072
+83	8.612	flagsChanged	131072
+84	8.645	flagsChanged	131072
+85	8.678	flagsChanged	131072
+86	8.711	flagsChanged	131072
+87	8.744	flagsChanged	131072
+88	8.777	flagsChanged	131072
+89	8.81	flagsChanged	131072
+90	8.843	flagsChanged	131072
+91	8.876	flagsChanged	131072
+92	8.909	flagsChanged	131072
+93	8.942	flagsChanged	131072
+94	8.975	flagsChanged	131072
+95	9.009	flagsChanged	131072
+96	9.041	flagsChanged	131072
+97	9.074	flagsChanged	131072
+98	9.109	flagsChanged	131072
+99	9.14	flagsChanged	131072
+100	9.173	flagsChanged	131072
+101	9.207	flagsChanged	131072
+102	9.239	flagsChanged	131072
+103	9.272	flagsChanged	131072
+104	9.316	flagsChanged	131072
+105	9.338	flagsChanged	131072
+106	9.371	flagsChanged	131072
+107	9.408	flagsChanged	131072
+108	9.437	flagsChanged	131072
+109	9.47	flagsChanged	131072
+110	9.508	flagsChanged	131072
+111	9.536	flagsChanged	131072
+112	9.569	flagsChanged	131072
+113	9.608	flagsChanged	131072
+114	9.635	flagsChanged	131072
+115	9.668	flagsChanged	131072
+116	9.688	mouseMoved	{hotSpot:[768, 350]}
+117	9.842	flagsChanged	131072
+118	9.844	mouseMoved	{hotSpot:[756, 375]}
+119	9.991	flagsChanged	131072
+120	9.994	mouseMoved	{hotSpot:[751, 389]}
+121	10.139	flagsChanged	131072
+122	10.141	mouseMoved	{hotSpot:[751, 408]}
+123	10.289	flagsChanged	131072
+124	10.291	mouseMoved	{hotSpot:[756, 458]}
+125	10.439	flagsChanged	131072
+126	10.441	mouseMoved	{hotSpot:[755, 463]}
+127	10.598	flagsChanged	131072
+128	10.6	mouseMoved	{hotSpot:[607, 453]}
+129	10.752	flagsChanged	131072
+130	10.754	mouseMoved	{hotSpot:[431, 411]}
+131	10.905	flagsChanged	131072
+132	10.907	mouseMoved	{hotSpot:[380, 407]}
+133	11.055	flagsChanged	131072
+134	11.057	mouseMoved	{hotSpot:[360, 417]}
+135	11.201	flagsChanged	131072
+136	11.21	mouseMoved	{hotSpot:[315, 399]}
+137	11.352	flagsChanged	131072
+138	11.354	mouseMoved	{hotSpot:[91, 299]}
+139	11.504	flagsChanged	131072
+140	11.506	mouseMoved	{hotSpot:[92, 349]}
+141	11.663	flagsChanged	131072
+142	11.665	mouseMoved	{hotSpot:[103, 363]}
+143	11.813	flagsChanged	131072
+144	11.815	mouseMoved	{hotSpot:[77, 374]}
+145	11.963	flagsChanged	131072
+146	11.966	mouseMoved	{hotSpot:[63, 385]}
+147	12.114	flagsChanged	131072
+148	12.116	mouseMoved	{hotSpot:[58, 375]}
+149	12.27	flagsChanged	131072
+150	12.273	mouseDown	{button:1, clickCount:1, hotSpot:[58, 375]}
+151	12.416	flagsChanged	131072
+152	12.423	flagsChanged	131072
+153	12.446	flagsChanged	131072
+154	12.48	flagsChanged	131072
+155	12.516	flagsChanged	131072
+156	12.544	flagsChanged	131072
+157	12.577	flagsChanged	131072
+158	12.615	flagsChanged	131072
+159	12.643	flagsChanged	131072
+160	12.672	flagsChanged	131072
+161	12.707	flagsChanged	131072
+162	12.741	flagsChanged	131072
+163	12.775	flagsChanged	131072
+164	12.815	flagsChanged	131072
+165	12.842	flagsChanged	131072
+166	12.871	flagsChanged	131072
+167	12.904	flagsChanged	131072
+168	12.937	flagsChanged	131072
+169	12.971	flagsChanged	131072
+170	13.009	flagsChanged	131072
+171	13.037	flagsChanged	131072
+172	13.071	flagsChanged	131072
+173	13.103	flagsChanged	131072
+174	13.137	flagsChanged	131072
+175	13.167	flagsChanged	131072
+176	13.2	flagsChanged	131072
+177	13.235	flagsChanged	131072
+178	13.271	flagsChanged	131072
+179	13.305	flagsChanged	131072
+180	13.336	flagsChanged	131072
+181	13.369	flagsChanged	131072
+182	13.399	flagsChanged	131072
+183	13.435	flagsChanged	131072
+184	13.466	flagsChanged	131072
+185	13.499	flagsChanged	131072
+186	13.535	flagsChanged	131072
+187	13.569	flagsChanged	131072
+188	13.6	flagsChanged	131072
+189	13.634	flagsChanged	131072
+190	13.665	flagsChanged	131072
+191	13.697	flagsChanged	131072
+192	13.732	flagsChanged	131072
+193	13.763	flagsChanged	131072
+194	13.8	flagsChanged	131072
+195	13.833	flagsChanged	131072
+196	13.864	flagsChanged	131072
+197	13.895	flagsChanged	131072
+198	13.926	flagsChanged	131072
+199	13.96	flagsChanged	131072
+200	13.992	flagsChanged	131072
+201	14.027	flagsChanged	131072
+202	14.058	flagsChanged	131072
+203	14.091	flagsChanged	131072
+204	14.124	flagsChanged	131072
+205	14.157	flagsChanged	131072
+206	14.191	flagsChanged	131072
+207	14.228	flagsChanged	131072
+208	14.256	flagsChanged	131072
+209	14.289	flagsChanged	131072
+210	14.322	flagsChanged	131072
+211	14.355	flagsChanged	131072
+212	14.388	flagsChanged	131072
+213	14.421	flagsChanged	131072
+214	14.454	flagsChanged	131072
+215	14.487	flagsChanged	131072
+216	14.52	flagsChanged	131072
+217	14.553	flagsChanged	131072
+218	14.586	flagsChanged	131072
+219	14.619	flagsChanged	131072
+220	14.652	flagsChanged	131072
+221	14.685	flagsChanged	131072
+222	14.718	flagsChanged	131072
+223	14.751	flagsChanged	131072
+224	14.784	flagsChanged	131072
+225	14.817	flagsChanged	131072
+226	14.834	mouseUp	{button:1, clickCount:1, hotSpot:[462, 335]}
+227	14.982	flagsChanged	131072
+228	15.015	flagsChanged	131072
+229	15.048	flagsChanged	131072
+230	15.081	flagsChanged	131072
+231	15.114	flagsChanged	131072
+232	15.147	flagsChanged	131072
+233	15.18	flagsChanged	131072
+234	15.213	flagsChanged	131072
+235	15.246	flagsChanged	131072
+236	15.279	flagsChanged	131072
+237	15.312	flagsChanged	131072
+238	15.345	flagsChanged	131072
+239	15.378	flagsChanged	131072
+240	15.412	flagsChanged	131072
+241	15.444	flagsChanged	131072
+242	15.477	flagsChanged	131072
+243	15.51	flagsChanged	131072
+244	15.543	flagsChanged	131072
+245	15.577	flagsChanged	131072
+246	15.617	flagsChanged	0
+247	22.234	end	

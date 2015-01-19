@@ -1,0 +1,6 @@
+﻿2014-12-23 10:29:18.696 +0100	START		Running Table_2.table
+2014-12-23 10:29:19.209 +0100	doubleclick	Albelli_UK/Albelli_UK	at (584, 30)
+2014-12-23 10:29:19.209 +0100	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]
+2014-12-23 10:29:21.027 +0100	Exception	Newproduct	No Image Found On Screen: "Newproduct"
+2014-12-23 10:29:21.029 +0100	EndTestCase		(Duration:"2.332", Errors:"1", Exceptions:"2", StartTime:"2014-12-23 10:29:18 +0100", Successes:"0", TestCase:"Table_2.table", Warnings:"0")
+2014-12-23 10:29:21.190 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Newproduct" -- Execution Time 0:00:03 Table_2.table

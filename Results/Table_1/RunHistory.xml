@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Table_1">
+ <run>
+  <RunDate>2014-12-22 16:52:45.560 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.433000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141222_165245.560/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server: on port:0
+No Host Specified</ErrorMessage>
+ </run>
+</runHistory>

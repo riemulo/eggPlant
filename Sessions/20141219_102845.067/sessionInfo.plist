@@ -1,0 +1,45 @@
+{
+    commandList = "[{captureRect:[193, 429, 263, 459], command:@\"Click\", eventNum:2, hotSpot:[228, 324], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"PhotoCover_UK\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0002.png\"}, {captureRect:[546, 266, 616, 296], command:@\"Click\", eventNum:4, hotSpot:[581, 487], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0004.png\"}, {captureRect:[773, 131, 843, 161], command:@\"Click\", eventNum:6, hotSpot:[808, 622], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0006.png\"}, {captureRect:[637, 186, 707, 216], command:@\"Click\", eventNum:8, hotSpot:[672, 567], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Manualfill_0002\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0008.png\"}, {captureRect:[12, 392, 91, 426], command:@\"Click\", eventNum:10, hotSpot:[66, 352], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Photo_1\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0010.png\"}, {captureRect:[261, 331, 310, 357], command:@\"MoveTo\", eventNum:12, hotSpot:[302, 410], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"EmptyPhotoViewer\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0012.png\"}, {command:@\"ScrollWheelDown\", eventNum:13, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0012.png\", text:@\"1.0\"}, {command:@\"ScrollWheelUp\", eventNum:15, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0012.png\", text:@\"1.0\"}, {captureRect:[275, 340, 316, 358], command:@\"Click\", eventNum:16, hotSpot:[308, 399], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"EmptyPhotoViewer\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0016.png\"}, {captureRect:[218, 275, 288, 305], command:@\"MoveTo\", eventNum:18, hotSpot:[285, 480], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Photo_2\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0018.png\"}, {command:@\"ScrollWheelUp\", eventNum:19, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0018.png\", text:@\"1.0\"}, {command:@\"ScrollWheelDown\", eventNum:21, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0018.png\", text:@\"1.0\"}, {captureRect:[225, 271, 295, 301], command:@\"MoveTo\", eventNum:22, hotSpot:[285, 480], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Photo_3\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0022.png\"}, {command:@\"ScrollWheelDown\", eventNum:23, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0022.png\", text:@\"5.0\"}, {captureRect:[230, 237, 300, 267], command:@\"Click\", eventNum:24, hotSpot:[265, 516], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Photo_4\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Sessions/20141219_102845.067/Screen0024.png\"}]";
+    generatedCommands = (
+	"Click \"PhotoCover_UK\"",
+	"Click \"image0001\"",
+	"Click \"image0002\"",
+	"Click \"Manualfill_0002\"",
+	"Click \"Photo_1\"",
+	"MoveTo \"EmptyPhotoViewer\"",
+	"ScrollWheelDown 1.0",
+	"ScrollWheelUp 1.0",
+	"Click \"EmptyPhotoViewer\"",
+	"MoveTo \"Photo_2\"",
+	"ScrollWheelUp 1.0",
+	"ScrollWheelDown 1.0",
+	"MoveTo \"Photo_3\"",
+	"ScrollWheelDown 5.0",
+	"Click \"Photo_4\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "PhotoCover_UK.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "Manualfill_0002.png",
+	    "Photo_1.png",
+	    "EmptyPhotoViewer.png",
+	    "EmptyPhotoViewer.png",
+	    "Photo_2.png",
+	    "Photo_3.png",
+	    "Photo_4.png",
+	    "PhotoCover_UK.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "Manualfill_0002.png",
+	    "Photo_1.png",
+	    "EmptyPhotoViewer.png",
+	    "EmptyPhotoViewer.png",
+	    "Photo_2.png",
+	    "Photo_3.png",
+	    "Photo_4.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

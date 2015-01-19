@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="StartEditor">
+ <run>
+  <RunDate>2015-01-06 15:49:19.807 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>93.461000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20150106_154919.807/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2015-01-15 11:56:40.429 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.511000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150115_115640.429/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: SquarePhotoBooks</ErrorMessage>
+ </run>
+</runHistory>

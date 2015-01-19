@@ -1,0 +1,6 @@
+﻿2014-12-22 17:24:34.286 +0100	START		Running Ctrol keydown.script
+2014-12-22 17:24:35.271 +0100	click	image0012	at (50, 365)	8	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:24:35.972 +0100	keydown		[controlKey]	9	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:24:36.673 +0100	keyup		[controlKey]	10	on_ctrol_keydown	Ctrol keydown.script
+2014-12-22 17:24:36.705 +0100	EndTestCase		(Duration:"2.416", Errors:"0", Exceptions:"0", StartTime:"2014-12-22 17:24:34 +0100", Successes:"1", TestCase:"Ctrol keydown.script", Warnings:"0")
+2014-12-22 17:24:36.762 +0100	SUCCESS		Execution Time 0:00:02 Ctrol keydown.script

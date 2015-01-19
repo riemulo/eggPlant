@@ -1,0 +1,8 @@
+﻿2014-12-23 12:57:30.410 +0100	START		Running Agenda.script
+2014-12-23 12:57:31.389 +0100	click	Albelli	at (45, 129)	8	on_agenda	Agenda.script
+2014-12-23 12:57:32.197 +0100	doubleclick	Albelli/Albelli_selected	at (42, 130)	9	on_agenda	Agenda.script
+2014-12-23 12:57:34.695 +0100	click	Newproduct	at (32, 72)	10	on_agenda	Agenda.script
+2014-12-23 12:57:36.141 +0100	click	Agenda's	at (757, 235)	11	on_agenda	Agenda.script
+2014-12-23 12:57:37.509 +0100	click	SchoolAgenda	at (192, 567)	12	on_agenda	Agenda.script
+2014-12-23 12:57:47.675 +0100	EndTestCase		(Duration:"17.262", Errors:"1", Exceptions:"0", StartTime:"2014-12-23 12:57:30 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-23 12:57:47.676 +0100	ABORTED		Execution Time 0:00:17 Agenda.script

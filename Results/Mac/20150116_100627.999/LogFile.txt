@@ -1,0 +1,10 @@
+﻿2015-01-16 10:06:28.000 +0100	START		Running Mac.table
+2015-01-16 10:06:31.149 +0100	click	Tester	at (1141, 434)	7	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:06:31.860 +0100	typetext		tester	8	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:06:32.561 +0100	typetext		[enter]	9	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:06:35.266 +0100	click	Application/Application	at (1662, 1039)	10	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:06:37.805 +0100	click	Mac_UK	at (1256, 242)	11	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:06:40.691 +0100	Exception	BeginNewProduct	No Image Found On Screen: "BeginNewProduct"	12	on_startapp_mac	StartApp_Mac.script
+2015-01-16 10:06:40.694 +0100	Exception		Unable to locate script named: Add cover&pics	17	on_sendemail	sendEmail.script
+2015-01-16 10:06:40.697 +0100	EndTestCase		(Duration:"12.695", Errors:"1", Exceptions:"2", StartTime:"2015-01-16 10:06:28 +0100", Successes:"0", TestCase:"Mac.table", Warnings:"0")
+2015-01-16 10:06:42.090 +0100	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: Add cover&pics -- Execution Time 0:00:13 Mac.table

@@ -1,0 +1,4 @@
+1	0.00200001	start	
+2	3.697	keyDown	{modifiers:0, string:@"\u001b", theKey:@"\u001b"}
+3	3.854	keyUp	{modifiers:0, string:@"\u001b", theKey:@"\u001b"}
+4	11.157	end	

@@ -1,0 +1,7 @@
+﻿2014-12-22 14:55:23.447 +0100	START		Running Text_1.script
+2014-12-22 14:55:24.288 +0100	click	InsertPage	at (213, 34)	8	on_text_1	Text_1.script
+2014-12-22 14:55:25.230 +0100	click	image0003	at (31, 77)	9	on_text_1	Text_1.script
+2014-12-22 14:55:26.539 +0100	click	image0004	at (561, 319)	10	on_text_1	Text_1.script
+2014-12-22 14:55:43.890 +0100	Exception	image0005	No Image Found On Screen: "image0005"	11	on_text_1	Text_1.script
+2014-12-22 14:55:43.945 +0100	EndTestCase		(Duration:"20.495", Errors:"1", Exceptions:"1", StartTime:"2014-12-22 14:55:23 +0100", Successes:"0", TestCase:"Text_1.script", Warnings:"0")
+2014-12-22 14:55:43.947 +0100	ABORTED		Execution Time 0:00:20 Text_1.script

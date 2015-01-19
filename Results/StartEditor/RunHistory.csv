@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-01-06 15:49:19.807 +0100,"Success",0:01:33,0,0,0,"20150106_154919.807/LogFile.txt","","",1
+2015-01-15 11:56:40.429 +0100,"Failure",0:00:06,1,0,1,"20150115_115640.429/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: SquarePhotoBooks",0

@@ -1,0 +1,4 @@
+﻿2014-12-17 17:17:05.068 +0100	START		Running StartEditor.script
+2014-12-17 17:17:15.795 +0100	Exception	Albelli_UK	No Image Found On Screen: "Albelli_UK"	8	on_starteditor	StartEditor.script
+2014-12-17 17:17:15.849 +0100	EndTestCase		(Duration:"10.777", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 17:17:05 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-17 17:17:15.850 +0100	ABORTED		Execution Time 0:00:10 StartEditor.script

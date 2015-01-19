@@ -1,0 +1,52 @@
+﻿2014-12-23 13:47:46.807 +0100	START		Running StartEditor.script
+2014-12-23 13:47:46.856 +0100	BeginTestCase		startEditor	7	on_starteditor	StartEditor.script
+2014-12-23 13:47:47.463 +0100	doubleclick	Albelli_UK	at (584, 30)	8	on_starteditor	StartEditor.script
+2014-12-23 13:47:50.771 +0100	click	New_product	at (31, 67)	10	on_starteditor	StartEditor.script
+2014-12-23 13:47:51.723 +0100	click	Photobooks_Uk	at (126, 240)	11	on_starteditor	StartEditor.script
+2014-12-23 13:47:52.542 +0100	click	SquarePhotoBooks	at (161, 269)	12	on_starteditor	StartEditor.script
+2014-12-23 13:47:53.359 +0100	click	Square_XL_UK	at (126, 240)	13	on_starteditor	StartEditor.script
+2014-12-23 13:47:56.602 +0100	click	PhotoCover_UK	at (229, 323)	14	on_starteditor	StartEditor.script
+2014-12-23 13:47:57.781 +0100	click	No_Layflat	at (650, 480)	15	on_starteditor	StartEditor.script
+2014-12-23 13:47:58.756 +0100	click	OK_books	at (806, 623)	16	on_starteditor	StartEditor.script
+2014-12-23 13:48:00.071 +0100	click	Manualfill	at (631, 566)	17	on_starteditor	StartEditor.script
+2014-12-23 13:48:01.374 +0100	draganddrop	Photo_1	begin drag from (66, 352)	18	on_starteditor	StartEditor.script
+2014-12-23 13:48:02.704 +0100	draganddrop		drag #2 to (757, 348)	18	on_starteditor	StartEditor.script
+2014-12-23 13:48:03.005 +0100	draganddrop		dropped at (757, 348)	18	on_starteditor	StartEditor.script
+2014-12-23 13:48:04.128 +0100	moveto		at (291, 342)	19	on_starteditor	StartEditor.script
+2014-12-23 13:48:04.829 +0100	scrollwheeldown		moved 1	20	on_starteditor	StartEditor.script
+2014-12-23 13:48:05.529 +0100	scrollwheelup		moved 1	21	on_starteditor	StartEditor.script
+2014-12-23 13:48:06.307 +0100	click		at (291, 342)	22	on_starteditor	StartEditor.script
+2014-12-23 13:48:07.188 +0100	draganddrop	Photo_2	begin drag from (285, 480)	23	on_starteditor	StartEditor.script
+2014-12-23 13:48:08.151 +0100	draganddrop	Placeholder	drag #2 to (476, 285)	23	on_starteditor	StartEditor.script
+2014-12-23 13:48:08.452 +0100	draganddrop	Placeholder	dropped at (476, 285)	23	on_starteditor	StartEditor.script
+2014-12-23 13:48:09.152 +0100	scrollwheelup		moved 1	24	on_starteditor	StartEditor.script
+2014-12-23 13:48:09.852 +0100	scrollwheeldown		moved 1	25	on_starteditor	StartEditor.script
+2014-12-23 13:48:10.732 +0100	moveto		at (291, 342)	26	on_starteditor	StartEditor.script
+2014-12-23 13:48:11.432 +0100	scrollwheeldown		moved 5	27	on_starteditor	StartEditor.script
+2014-12-23 13:48:11.435 +0100	EndTestCase		(Duration:"24.577", Errors:"0", Exceptions:"0", StartTime:"2014-12-23 13:47:46 +0100", Successes:"0", TestCase:"startEditor", Warnings:"0")	28	on_starteditor	StartEditor.script
+2014-12-23 13:48:11.436 +0100	BeginTestCase		scrolling	30	on_starteditor	StartEditor.script
+2014-12-23 13:48:12.561 +0100	click	FileTab	at (36, 35)	31	on_starteditor	StartEditor.script
+2014-12-23 13:48:13.522 +0100	click	Settings	at (28, 243)	32	on_starteditor	StartEditor.script
+2014-12-23 13:48:14.505 +0100	moveto	SettingWIndow	at (325, 181)	33	on_starteditor	StartEditor.script
+2014-12-23 13:48:15.205 +0100	scrollwheeldown		moved 13	34	on_starteditor	StartEditor.script
+2014-12-23 13:48:15.905 +0100	scrollwheelup		moved 7	35	on_starteditor	StartEditor.script
+2014-12-23 13:48:16.680 +0100	moveto	SettingWindow2	at (399, 181)	36	on_starteditor	StartEditor.script
+2014-12-23 13:48:17.801 +0100	click	SaveAndReturn	at (28, 71)	40	on_starteditor	StartEditor.script
+2014-12-23 13:48:17.803 +0100	EndTestCase		(Duration:"6.366", Errors:"0", Exceptions:"0", StartTime:"2014-12-23 13:48:11 +0100", Successes:"0", TestCase:"scrolling", Warnings:"0")	41	on_starteditor	StartEditor.script
+2014-12-23 13:48:17.805 +0100	BeginTestCase		Close_app	43	on_starteditor	StartEditor.script
+2014-12-23 13:48:19.443 +0100	click	bn_close	at (991, 9)	44	on_starteditor	StartEditor.script
+2014-12-23 13:48:20.904 +0100	click	bn_DontSave	at (575, 377)	45	on_starteditor	StartEditor.script
+2014-12-23 13:48:20.906 +0100	EndTestCase		(Duration:"3.1", Errors:"0", Exceptions:"0", StartTime:"2014-12-23 13:48:17 +0100", Successes:"0", TestCase:"Close_app", Warnings:"0")	46	on_starteditor	StartEditor.script
+2014-12-23 13:48:20.908 +0100	BeginTestCase		Agenda	48	on_starteditor	StartEditor.script
+2014-12-23 13:48:21.604 +0100	imagefound	Albelli	found at (435, 24)	49	on_starteditor	StartEditor.script
+2014-12-23 13:48:22.044 +0100	doubleclick		at (435, 24)	49	on_starteditor	StartEditor.script
+2014-12-23 13:48:25.040 +0100	click	Newproduct	at (33, 72)	50	on_starteditor	StartEditor.script
+2014-12-23 13:48:26.208 +0100	click	Agenda's	at (434, 235)	51	on_starteditor	StartEditor.script
+2014-12-23 13:48:27.349 +0100	click	SchoolAgenda	at (838, 289)	52	on_starteditor	StartEditor.script
+2014-12-23 13:48:29.027 +0100	click	Ok_school	at (607, 546)	53	on_starteditor	StartEditor.script
+2014-12-23 13:48:30.418 +0100	click	DesignTab	at (151, 35)	54	on_starteditor	StartEditor.script
+2014-12-23 13:48:31.250 +0100	click	InsertTab	at (219, 37)	55	on_starteditor	StartEditor.script
+2014-12-23 13:48:37.707 +0100	Exception	AddText_disabled	No Image Found On Screen: "AddText_disabled"	56	on_starteditor	StartEditor.script
+2014-12-23 13:48:37.720 +0100	EndTestCase		(Duration:"16.811", Errors:"1", Exceptions:"1", StartTime:"2014-12-23 13:48:20 +0100", Successes:"0", TestCase:"Agenda", Warnings:"0")
+2014-12-23 13:48:37.723 +0100	EndTestCase		(Duration:"50.914", Errors:"1", Exceptions:"1", StartTime:"2014-12-23 13:47:46 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-23 13:48:37.724 +0100	ABORTED		Execution Time 0:00:51 StartEditor.script

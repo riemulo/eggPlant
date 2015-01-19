@@ -1,0 +1,5 @@
+﻿2014-12-10 17:13:07.056 +0100	START		Running Waiting.script
+2014-12-10 17:13:07.687 +0100	click	image0003	at (432, 38)	8	on_waiting	Waiting.script
+2014-12-10 17:13:08.493 +0100	doubleclick	image0030	at (432, 38)	9	on_waiting	Waiting.script
+2014-12-10 17:13:08.502 +0100	EndTestCase		(Duration:"1.442", Errors:"1", Exceptions:"0", StartTime:"2014-12-10 17:13:07 +0100", Successes:"0", TestCase:"Waiting.script", Warnings:"0")
+2014-12-10 17:13:08.724 +0100	FAILURE	Screen_Error.png	Invalid Parameters Invalid Parameter, please use wait <time in seconds> -- Execution Time 0:00:01 Waiting.script

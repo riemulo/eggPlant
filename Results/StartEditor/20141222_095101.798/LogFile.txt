@@ -1,0 +1,26 @@
+﻿2014-12-22 09:51:01.799 +0100	START		Running StartEditor.script
+2014-12-22 09:51:02.359 +0100	doubleclick	Albelli_UK	at (584, 30)	7	on_starteditor	StartEditor.script
+2014-12-22 09:51:05.374 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-22 09:51:06.325 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-22 09:51:07.152 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-22 09:51:07.974 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-22 09:51:11.271 +0100	click	PhotoCover_UK	at (229, 323)	13	on_starteditor	StartEditor.script
+2014-12-22 09:51:12.455 +0100	click	No_Layflat	at (650, 480)	14	on_starteditor	StartEditor.script
+2014-12-22 09:51:13.439 +0100	click	OK_books	at (806, 623)	15	on_starteditor	StartEditor.script
+2014-12-22 09:51:14.763 +0100	click	Manualfill	at (631, 566)	16	on_starteditor	StartEditor.script
+2014-12-22 09:51:16.072 +0100	draganddrop	Photo_1	begin drag from (66, 352)	17	on_starteditor	StartEditor.script
+2014-12-22 09:51:17.405 +0100	draganddrop		drag #2 to (757, 348)	17	on_starteditor	StartEditor.script
+2014-12-22 09:51:17.707 +0100	draganddrop		dropped at (757, 348)	17	on_starteditor	StartEditor.script
+2014-12-22 09:51:18.830 +0100	moveto		at (291, 342)	18	on_starteditor	StartEditor.script
+2014-12-22 09:51:19.530 +0100	scrollwheeldown		moved 1	19	on_starteditor	StartEditor.script
+2014-12-22 09:51:20.229 +0100	scrollwheelup		moved 1	20	on_starteditor	StartEditor.script
+2014-12-22 09:51:21.006 +0100	click		at (291, 342)	21	on_starteditor	StartEditor.script
+2014-12-22 09:51:21.895 +0100	draganddrop	Photo_2	begin drag from (285, 480)	22	on_starteditor	StartEditor.script
+2014-12-22 09:51:22.858 +0100	draganddrop	Placeholder	drag #2 to (476, 285)	22	on_starteditor	StartEditor.script
+2014-12-22 09:51:23.160 +0100	draganddrop	Placeholder	dropped at (476, 285)	22	on_starteditor	StartEditor.script
+2014-12-22 09:51:23.860 +0100	scrollwheelup		moved 1	23	on_starteditor	StartEditor.script
+2014-12-22 09:51:24.560 +0100	scrollwheeldown		moved 1	24	on_starteditor	StartEditor.script
+2014-12-22 09:51:25.440 +0100	moveto		at (291, 342)	25	on_starteditor	StartEditor.script
+2014-12-22 09:51:26.140 +0100	scrollwheeldown		moved 5	26	on_starteditor	StartEditor.script
+2014-12-22 09:51:26.194 +0100	EndTestCase		(Duration:"24.392", Errors:"0", Exceptions:"0", StartTime:"2014-12-22 09:51:01 +0100", Successes:"1", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-22 09:51:26.280 +0100	SUCCESS		Execution Time 0:00:25 StartEditor.script

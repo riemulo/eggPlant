@@ -1,0 +1,26 @@
+﻿2014-12-23 10:57:45.508 +0100	START		Running Keyword.table
+2014-12-23 10:57:46.134 +0100	doubleclick	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-23 10:57:49.627 +0100	click	New_product	at (31, 67)	9	on_starteditor	StartEditor.script
+2014-12-23 10:57:50.578 +0100	click	Photobooks_Uk	at (126, 240)	10	on_starteditor	StartEditor.script
+2014-12-23 10:57:51.398 +0100	click	SquarePhotoBooks	at (161, 269)	11	on_starteditor	StartEditor.script
+2014-12-23 10:57:52.215 +0100	click	Square_XL_UK	at (126, 240)	12	on_starteditor	StartEditor.script
+2014-12-23 10:57:55.466 +0100	click	PhotoCover_UK	at (229, 323)	13	on_starteditor	StartEditor.script
+2014-12-23 10:57:56.645 +0100	click	No_Layflat	at (650, 480)	14	on_starteditor	StartEditor.script
+2014-12-23 10:57:57.619 +0100	click	OK_books	at (806, 623)	15	on_starteditor	StartEditor.script
+2014-12-23 10:57:58.935 +0100	click	Manualfill	at (631, 566)	16	on_starteditor	StartEditor.script
+2014-12-23 10:58:00.239 +0100	draganddrop	Photo_1	begin drag from (66, 352)	17	on_starteditor	StartEditor.script
+2014-12-23 10:58:01.569 +0100	draganddrop		drag #2 to (757, 348)	17	on_starteditor	StartEditor.script
+2014-12-23 10:58:01.869 +0100	draganddrop		dropped at (757, 348)	17	on_starteditor	StartEditor.script
+2014-12-23 10:58:02.991 +0100	moveto		at (291, 342)	18	on_starteditor	StartEditor.script
+2014-12-23 10:58:03.690 +0100	scrollwheeldown		moved 1	19	on_starteditor	StartEditor.script
+2014-12-23 10:58:04.389 +0100	scrollwheelup		moved 1	20	on_starteditor	StartEditor.script
+2014-12-23 10:58:05.166 +0100	click		at (291, 342)	21	on_starteditor	StartEditor.script
+2014-12-23 10:58:06.049 +0100	draganddrop	Photo_2	begin drag from (285, 480)	22	on_starteditor	StartEditor.script
+2014-12-23 10:58:07.011 +0100	draganddrop	Placeholder	drag #2 to (476, 285)	22	on_starteditor	StartEditor.script
+2014-12-23 10:58:07.311 +0100	draganddrop	Placeholder	dropped at (476, 285)	22	on_starteditor	StartEditor.script
+2014-12-23 10:58:08.010 +0100	scrollwheelup		moved 1	23	on_starteditor	StartEditor.script
+2014-12-23 10:58:08.709 +0100	scrollwheeldown		moved 1	24	on_starteditor	StartEditor.script
+2014-12-23 10:58:09.588 +0100	moveto		at (291, 342)	25	on_starteditor	StartEditor.script
+2014-12-23 10:58:10.287 +0100	scrollwheeldown		moved 5	26	on_starteditor	StartEditor.script
+2014-12-23 10:58:10.291 +0100	EndTestCase		(Duration:"24.782", Errors:"0", Exceptions:"0", StartTime:"2014-12-23 10:57:45 +0100", Successes:"1", TestCase:"Keyword.table", Warnings:"0")
+2014-12-23 10:58:10.391 +0100	SUCCESS		Execution Time 0:00:25 Keyword.table

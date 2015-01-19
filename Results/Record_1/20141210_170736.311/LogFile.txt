@@ -1,0 +1,6 @@
+﻿2014-12-10 17:07:36.312 +0100	START		Running Record_1.script
+2014-12-10 17:07:37.036 +0100	click	image0001	at (429, 45)	8	on_record_1	Record_1.script
+2014-12-10 17:07:37.842 +0100	doubleclick	image0002	at (429, 36)	9	on_record_1	Record_1.script
+2014-12-10 17:07:45.397 +0100	Exception	New_product	No Image Found On Screen: "New_product"	10	on_record_1	Record_1.script
+2014-12-10 17:07:45.404 +0100	EndTestCase		(Duration:"9.088", Errors:"1", Exceptions:"1", StartTime:"2014-12-10 17:07:36 +0100", Successes:"0", TestCase:"Record_1.script", Warnings:"0")
+2014-12-10 17:07:45.542 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "New_product" -- Execution Time 0:00:09 Record_1.script

@@ -1,0 +1,10 @@
+﻿2014-12-23 15:31:38.952 +0100	START		Running Agenda.script
+2014-12-23 15:31:38.998 +0100	imagefound	Albelli	found at (45, 129)	8	on_agenda	Agenda.script
+2014-12-23 15:31:39.952 +0100	doubleclick		at (45, 129)	8	on_agenda	Agenda.script
+2014-12-23 15:31:42.635 +0100	click	Newproduct	at (32, 72)	9	on_agenda	Agenda.script
+2014-12-23 15:31:44.081 +0100	click	Agenda's	at (757, 235)	10	on_agenda	Agenda.script
+2014-12-23 15:31:45.453 +0100	click	SchoolAgenda	at (192, 567)	11	on_agenda	Agenda.script
+2014-12-23 15:31:47.407 +0100	click	Ok_school	at (637, 550)	12	on_agenda	Agenda.script
+2014-12-23 15:31:52.286 +0100	Exception	DesignTab	No Image Found On Screen: "DesignTab"	13	on_agenda	Agenda.script
+2014-12-23 15:31:52.293 +0100	EndTestCase		(Duration:"13.338", Errors:"1", Exceptions:"1", StartTime:"2014-12-23 15:31:38 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-23 15:31:52.294 +0100	ABORTED		Execution Time 0:00:14 Agenda.script

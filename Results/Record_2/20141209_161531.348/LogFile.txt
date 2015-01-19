@@ -1,0 +1,4 @@
+﻿2014-12-09 16:15:31.350 +0100	START		Running Record_2.script
+2014-12-09 16:15:31.578 +0100	typetext		[escape]	8	on_record_2	Record_2.script
+2014-12-09 16:15:31.632 +0100	EndTestCase		(Duration:"0.243", Errors:"0", Exceptions:"0", StartTime:"2014-12-09 16:15:31 +0100", Successes:"1", TestCase:"Record_2.script", Warnings:"0")
+2014-12-09 16:15:31.744 +0100	SUCCESS		Execution Time 0:00:00 Record_2.script

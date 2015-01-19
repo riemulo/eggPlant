@@ -1,0 +1,5 @@
+﻿2014-12-17 17:31:00.377 +0100	START		Running StartEditor.script
+2014-12-17 17:31:00.851 +0100	click	Albelli_UK	at (586, 32)	7	on_starteditor	StartEditor.script
+2014-12-17 17:31:07.142 +0100	Exception	New_product	No Image Found On Screen: "New_product"	9	on_starteditor	StartEditor.script
+2014-12-17 17:31:07.173 +0100	EndTestCase		(Duration:"6.794", Errors:"1", Exceptions:"1", StartTime:"2014-12-17 17:31:00 +0100", Successes:"0", TestCase:"StartEditor.script", Warnings:"0")
+2014-12-17 17:31:07.175 +0100	ABORTED		Execution Time 0:00:07 StartEditor.script

@@ -1,0 +1,14 @@
+﻿2014-12-19 09:58:21.298 +0100	START		Running Agenda.script
+2014-12-19 09:58:22.169 +0100	click	Albelli	at (435, 24)	8	on_agenda	Agenda.script
+2014-12-19 09:58:22.976 +0100	doubleclick	Albelli/Albelli_selected	at (432, 25)	9	on_agenda	Agenda.script
+2014-12-19 09:58:26.686 +0100	click	Newproduct	at (33, 72)	10	on_agenda	Agenda.script
+2014-12-19 09:58:27.856 +0100	click	Agenda's	at (434, 235)	11	on_agenda	Agenda.script
+2014-12-19 09:58:29.002 +0100	click	SchoolAgenda	at (838, 289)	12	on_agenda	Agenda.script
+2014-12-19 09:58:30.691 +0100	click	Ok_school	at (607, 546)	13	on_agenda	Agenda.script
+2014-12-19 09:58:32.074 +0100	click	Save_disabled	at (126, 73)	14	on_agenda	Agenda.script
+2014-12-19 09:58:32.953 +0100	click	ProductExtra_disabled	at (243, 78)	15	on_agenda	Agenda.script
+2014-12-19 09:58:33.813 +0100	click	ChageSize_disabled	at (334, 75)	16	on_agenda	Agenda.script
+2014-12-19 09:58:34.755 +0100	click	DesignTab	at (151, 35)	17	on_agenda	Agenda.script
+2014-12-19 09:58:57.072 +0100	Exception	InsertTab	No Image Found On Screen: "InsertTab"	18	on_agenda	Agenda.script
+2014-12-19 09:58:57.109 +0100	EndTestCase		(Duration:"35.808", Errors:"1", Exceptions:"1", StartTime:"2014-12-19 09:58:21 +0100", Successes:"0", TestCase:"Agenda.script", Warnings:"0")
+2014-12-19 09:58:57.282 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "InsertTab" -- Execution Time 0:00:36 Agenda.script

@@ -1,0 +1,17 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-22 17:24:23
+  From session:  Ctrol keydown
+  Captured on:  2014-12-22 17:23:31
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "image0012"
+--KeyDown ControlKey
+--KeyUp ControlKey
+Click (41, 500)
+--KeyDown ControlKey
+--KeyUp ControlKey
+Click (41, 580)
+KeyDown ControlKey
+KeyUp ControlKey
+

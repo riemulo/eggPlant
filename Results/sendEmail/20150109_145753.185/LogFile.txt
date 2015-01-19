@@ -1,0 +1,6 @@
+﻿2015-01-09 14:57:53.186 +0100	START		Running sendEmail.script
+2015-01-09 14:57:53.225 +0100	runwithnewresults		Add cover&pics.script (C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Results/Add cover&pics/20150109_145753.224/LogFile.txt)	17	on_sendemail	sendEmail.script
+2015-01-09 15:00:35.826 +0100	LogWarning		File C:/Users/sdemewoz/Desktop/eggPlant V1.5.suite/Results/Add cover&pics/20150109_145753.224/Screen_Error.tiff Doesn't exist for Email Attachment	29	on_sendemail	sendEmail.script
+2015-01-09 15:00:38.597 +0100	sendmail		Email Sent To: seniselam21@gmail.com, selamawit.demewoz@albumprinter.com	29	on_sendemail	sendEmail.script
+2015-01-09 15:00:38.622 +0100	EndTestCase		(Duration:"165.432", Errors:"1", Exceptions:"1", StartTime:"2015-01-09 14:57:53 +0100", Successes:"1", TestCase:"sendEmail.script", Warnings:"1")
+2015-01-09 15:00:38.678 +0100	SUCCESS		Execution Time 0:02:45 sendEmail.script

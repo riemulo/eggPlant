@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Text.script" package="eggPlant V1.5.suite" timestamp="2015-01-06 15:59:38.712 +0100"
+ tests="2" successes="0" errors="1" time="26.196000">
+  <properties>
+   <property name="RunDate" value="2015-01-06 15:59:38.712 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="scrolling" assertions="1" successes="0" errors="1" time="26.164">
+  </testcase>
+  <testcase name="test_3.script" assertions="1" successes="0" errors="1" time="26.197">
+  </testcase>
+ </testsuite>
+</testsuites>

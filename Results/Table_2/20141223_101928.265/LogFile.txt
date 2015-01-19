@@ -1,0 +1,5 @@
+﻿2014-12-23 10:19:28.266 +0100	START		Running Table_2.table
+2014-12-23 10:19:29.387 +0100	Exception	Albelli_UK/Albelli_UK	No Image Found On Screen: "Albelli_UK/Albelli_UK"
+2014-12-23 10:19:31.203 +0100	Exception	New_product	No Image Found On Screen: "New_product"
+2014-12-23 10:19:31.205 +0100	EndTestCase		(Duration:"2.938", Errors:"1", Exceptions:"2", StartTime:"2014-12-23 10:19:28 +0100", Successes:"0", TestCase:"Table_2.table", Warnings:"0")
+2014-12-23 10:19:31.400 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "New_product" -- Execution Time 0:00:03 Table_2.table

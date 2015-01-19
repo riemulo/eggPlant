@@ -1,0 +1,15 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2015-01-09 12:53:02
+  From session:  Add cover&pics
+  Captured on:  2015-01-09 12:43:07
+  From server:  Mavrix
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+--"Image_1" = (126, 414)
+--"Image_2" = (265, 416)
+
+Click "Extras"
+Click "Photocover_Mac"
+Click "Ok_extra_Mac/Ok_extra_2"
+--Click "Cover"
+DragAndDrop (126, 414), "Placeholder_mac"
+DragAndDrop (126, 414), "Placeholder_mac"

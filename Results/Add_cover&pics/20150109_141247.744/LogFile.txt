@@ -1,0 +1,8 @@
+﻿2015-01-09 14:12:47.745 +0100	START		Running Add cover&pics.script
+2015-01-09 14:13:01.298 +0100	click	Extras	at (591, 67)	8	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:13:02.301 +0100	click	Photocover_Mac	at (706, 205)	9	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:13:03.944 +0100	click	Ok_extra_Mac/Ok_extra_2	at (979, 561)	10	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:13:06.535 +0100	click	Cover	at (469, 942)	11	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:13:47.159 +0100	Exception	Image_1	Image Not Found On Screen "Image_1"	12	on_add_cover_pics	Add cover&pics.script
+2015-01-09 14:13:47.183 +0100	EndTestCase		(Duration:"59.436", Errors:"1", Exceptions:"1", StartTime:"2015-01-09 14:12:47 +0100", Successes:"0", TestCase:"Add cover&pics.script", Warnings:"0")
+2015-01-09 14:13:47.185 +0100	ABORTED		Execution Time 0:01:00 Add cover&pics.script

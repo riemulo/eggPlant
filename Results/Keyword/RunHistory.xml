@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Keyword">
+ <run>
+  <RunDate>2015-01-06 13:23:04.980 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>115.195000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20150106_132304.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: "Agenda's"</ErrorMessage>
+ </run>
+</runHistory>

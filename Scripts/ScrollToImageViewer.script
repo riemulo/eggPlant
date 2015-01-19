@@ -1,0 +1,22 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2014-12-19 10:47:28
+  From session:  ScrollToImageViewer
+  Captured on:  2014-12-19 10:28:45
+  From server:  Win-8 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "PhotoCover_UK"
+Click "No_Layflat"
+Click "OK_books"
+Click "Manualfill"
+Click "Photo_1"
+MoveTo "EmptyPhotoViewer"
+ScrollWheelDown 1.0
+ScrollWheelUp 1.0
+Click "EmptyPhotoViewer"
+MoveTo "Photo_2"
+ScrollWheelUp 1.0
+ScrollWheelDown 1.0
+MoveTo "Photo_3"
+ScrollWheelDown 5.0
+Click "Photo_4"
