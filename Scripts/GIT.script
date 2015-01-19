@@ -1,0 +1,10 @@
+﻿Click "FileTab"
+Click "Settings"
+MoveTo "SettingWIndow"
+ScrollWheelDown 13.0
+ScrollWheelUp 7.0
+MoveTo "SettingWindow2"
+--ScrollWheelUp 7.0
+--Click (Image:"DownArrow", WaitFor:2)
+--Click "DownArrow"
+Click "SaveAndReturn"

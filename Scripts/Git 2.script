@@ -1,0 +1,9 @@
+﻿Click "image0012"
+--KeyDown ControlKey
+--KeyUp ControlKey
+Click (41, 500)
+--KeyDown ControlKey
+--KeyUp ControlKey
+Click (41, 580)
+KeyDown ControlKey
+KeyUp ControlKey
