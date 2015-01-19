@@ -1,5 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2015-01-16 10:05:11.271 +0100,"Failure",0:00:01,1,0,2,"20150116_100511.271/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: Add cover&pics",0
-2015-01-16 10:06:27.999 +0100,"Failure",0:00:12,1,0,2,"20150116_100627.999/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: Add cover&pics",0
-2015-01-16 10:08:28.879 +0100,"Failure",0:00:18,1,0,1,"20150116_100828.879/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: Add cover&pics",0
-2015-01-16 10:10:00.730 +0100,"Success",0:00:21,0,0,0,"20150116_101000.730/LogFile.txt","","",1

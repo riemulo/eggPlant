@@ -30,7 +30,7 @@
   <NumberOfFails>1</NumberOfFails>
   <FirstRun>2015-01-16 10:03:05 +0100</FirstRun>
   <LastRun>2015-01-16 10:03:05 +0100</LastRun>
-  <TotalTimeOnSuccess>nan</TotalTimeOnSuccess>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="Mac">
   <LastStatus>Success</LastStatus>
